@@ -1,5 +1,5 @@
 # MIRN
-Multilingual version of IRN with MTransE's alignment method, used for cross-lingual KBQA.
+Multilingual version of IRN with MTransE's alignment method, used for cross-lingual KBQA (MLPQ).
 
 ## Environment(Using anaconda will make this easier)：
 * Python 3.X 
@@ -11,3 +11,8 @@ Multilingual version of IRN with MTransE's alignment method, used for cross-ling
 python train.py --dataset FR_fr_zh_fr
 ## Testing:
 python test.py --dataset FR_fr_zh_fr
+
+## Data
+Please extract [`data.rar`](data.rar) into this directory.
+All the data in this repo are from MLPQ, but some modifications are made, like formatting, different versions of KB (see our paper for further detail), etc.
+
