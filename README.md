@@ -21,5 +21,5 @@ The code for two baseline models are also open-source in this repository. Please
 
 Currently the MLPQ version is `1.0`. We expect to further the work and provide datasets of higher quality and more variety in the future.
 
-- Because the generation of MLPQ is semi-automatic and relys on manually crafted templates and machine translation to some degree, there might be some issues (like grammatical errors) in the text. We will try to improve the quality of MLPQ and a newer version with higher quality will be published very soon.
+- Because the generation of MLPQ is semi-automatic and relys on manually crafted templates and machine translation to some degree, there might be some issues (like grammatical errors) in the text. We try to improve the quality of MLPQ by post-editing and there should be very few problems now. If you find any errors in the dataset, please contact us.
 - For now, MLPQ mainly contains 2-hop and 3-hop path questions. For future work, we will generalize MLPQ with more complex questions and possibly other types of triples.
