@@ -1,6 +1,6 @@
 
 # MLPQ: A Dataset for Path Question Answering over Multilingual Knowledge Graphs
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LISCENSE.txt)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.txt)
 
 > Existing Knowledge Graph based Multilingual Question Answering (KG-MLQA) works mainly focus on the semantic parsing of multilingual questions, but ignore the combination
 of multilingual knowledge, which makes the QA system fail to break through the limitation of monolingual resources and has no potential to cover all of questions. Through a semiautomatic template synthesis process, we present MLPQ, a parallel path question answering dataset based on bilingual knowledge graphs extracted from DBpedia, which contains 827k questions and covers three language pairs (Chinese/English, Chinese/French, and English/French). Each question in MLPQ includes two or three relations, and requires the integration of information from bilingual knowledge graphs. Based on the MLPQ, we propose the first QA task over multilingual KGs, named Cross-lingual Path Question (CLPQ). The popular path question answering and multiple knowledge question answering (QA) models are used to establish two baselines of MLPQ. Experiments show that existing QA models cannot precisely respond to CLPQ. This work may further promote the development of Multilingual KGQA and information retrieval.
