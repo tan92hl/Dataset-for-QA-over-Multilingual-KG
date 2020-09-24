@@ -14,5 +14,5 @@ python test.py --dataset FR_fr_zh_fr
 
 ## Data
 Please extract [`data.rar`](data.rar) into this directory.
-All the data in this repo are from MLPQ, but some modifications are made, like formatting, different versions of KB (see our paper for further detail), etc.
+All the data in this repo are from MLPQ, but some formatting changes are made to adapt to IRN. Also the 1.0 version of MLPQ is used.
 
