@@ -24,3 +24,5 @@ This directory contains all the cross-lingual entity alignments (IILs) extracted
  - For each file, each line is one alignment pair.
  - Each pair can be separated by "`@@@`" into the two aligned entities.
 
+## RDF version
+All the datasets are available in RDF format, under the 'RDF' directory in each of the '[Question](Questions)' datasets.
