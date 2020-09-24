@@ -69,7 +69,7 @@ Statistics of each subset of MLPQ, ”Q” means
 
 ## Baselines
 - We establish two baseline models of MLPQ based on the popular multi-hop reasoning model [IRN](https://github.com/zmtkeke/IRN/tree/master/PathQuestion) and [multiple KGQA model](https://dl.acm.org/doi/10.5555/3016100.3016335), combined with a representative [Cross-ingual Entity Aligment (CLEA) model](https://github.com/muhaochen/MTransE-tf).
-- The two baselines are called **MIRN** and **CLKBQA** respectively.
+- The two baselines are called **MIRN** and **CL-MKQA** respectively.
 - Baseline codes are in the [baselines](baselines) directory. To try these baselines, please refer to this directory for further information.
 
 ## Versions and future work
