@@ -1,0 +1,198 @@
+location	what is the location of entity?	where is entity located?	where
+type	what is the type of entity?	which type does entity belong to?	what
+title	what is the title of entity?	which title does entity own?	what
+birthPlace	where is the birthplace of entity?	where is entity born?	where
+subdivisionName	what is the subdivision name of entity?	which place is called as the subdivision of entity?	what
+predecessor	who is the predecessor of entity?	who did a job before entity?	who
+successor	who is the successor of entity?	who do the job after entity?	who
+region	what is the region of entity?	which region does entity belong to?	what
+caption	where is the caption of entity shown?	which place does the caption of entity belong to?	where
+before	who is earlier than entity?	who is the predecessor of entity?/ who is the father of entity?	who
+city	which city does entity belong to?	where is entity located?	where
+country	which country does entity belong to?	where is entity located?	where
+religion	which religion does entity belong to?	which religion does entity believe? 	what 
+after	who is the predecessor of entity?	who did a job before entity?	who
+subdivisionType	what is the subdivision type of entity?	which type of subdivision does entity belong to?	what 
+spouse	who is the spouse of entity?	who married entity?	who
+timezone	which timezone does entity belong to?	what is the timezong of entity?	what
+language	what is the language of entity?	which language is used in entity?	what
+capital	which is the captial of entity?	where is the captial of entity located?	where
+owner	who is the owner of entity?	who owns entity?	who
+founder	who is the founder of entity?	who founded entity?	who
+genre	which genre does entity belong to?	what is the genre of entity?	what
+occupation	what is the occupation of entity?	what is entity?	what 
+leader	who is the leader of entity?	who leads entity?	who
+party	which party does entity belong to?	what is the party of entity?	what
+state	which state does entity belong to?	where is entity located?	where
+deathPlace	what is the deathpalce of entity?	where did entity die?	where
+almaMater	where is the alma mater of entity?	where did entity study?	where
+province	what is the province of entity?	which province does entity belong to?	what
+leaderName	what is the leader name of entity?	who leads entity?	who
+leaderTitle	what is the leader title of entity?	which title does entity own?	what 
+office	what is the office of entity?	which office does entity belong to?	what 
+president	where does entity work as a president?	which country does entity belong to?	where
+nationality	what is the nationality of entity?	which country does entity belong to?	what
+father	who is the father of entity?	who is the male parent of entity?	who
+position	which sport does entity play?	which team does entity belong to?	what
+headquarters	where is the headquarter of entity?	where is the headquarter of entity located?	where
+products	what it the product of entity?	which product belongs to entity?	what 
+imageCaption	which place does the image caption of entity belong to?	which place is the image caption of entity about?	where
+industry	which industry does entity belong to?	which industry is entity from?	what
+cityofbirth	where is entity born?	which city is the birthplace of entity?	where
+seat	where is entity seated?	where is the location of entity?	where
+timezoneDst	which timezone does entity belong to?	what is the timezong of entity?	what 
+knownFor	what is entity known for?	which bay makes entity famous?	where
+eventEnd	what does entity end up in?	what is the ending of entity?	what 
+governmentType	which type of government does entity belong to?	what is the government type of entity?	what
+namedAfter	whose name is used to name entity?	what is the name of entity based on?	who
+placeOfBirth	when is entity born?	which dynasty is entity born? 	when
+parent	which mountain range does entity belong to?	what is the parent moutain of entity?	what
+league	which league does entity belong to?	what does entity work for?	what
+territory	where is entity located?	which region does entity belong to?	where
+timezone1Dst	which timezone does entity belong to?	what is the timezong of entity?	what
+arrondissement	which arrondissement does entity belong to?	what does entity belong to?	what
+operator	who is the operator of entity?	who operates entity?	who
+house	which house does entity belong to?	which dynasty does entity belong to?	what
+settlementType	which province is entity settled in?	where does entity belong to?	where
+label	which label does entity belong to?	which label does entity work for?	what
+residence	where does entity live?	what is the address of entity	where
+mother	who is the mother of entity?	who is the female parent of entity?	who
+place	where does entity occur?	where does entity take place?	where
+eponym	whose name is used to name entity?	who is the denominator of entity?	who
+author	who is the author of entity?	who wrote entity?	who
+canton	which canton does entity belong to?	what is the canton of entity?	where
+event	which event happened in entity?	what happened in entity?	what
+companyType	which type does entity belong to?	what kind of company is entity?	what
+related	what is related to tail?	what is connected with entity?	what 
+chairman	who is the chairman of entity?	what is the name of the chairman of entity?	who
+ground	where is entity grounded?	what is the location of entity?	where
+commonLanguages	what is the common language of entity?	which language is commonly used in entity?	what 
+origin	what is the origin of entity?	which river is the entity originated from?	what
+currency	what is the currency of entity?	which currency is used in entity?	what 
+children	what is children of entity?	what is originated from entity?	what 
+series	which series does entity belong to?	what is the series of entity?	what 
+職業	what is entity?	what is the job of entity?	what 
+issue	who is the successor of entity?	who is issued by entity?	who
+next	who is the successor of entity?	who took the place of entity?	who
+postalCodeType	which type of post code does entity belong to?	what is the post code type of entity?	what 
+eventStart	what started entity?	which event started entity?	what 
+legislature	what is the legislature of entity?	who makes the law of entity?	what 
+succession	what does entity succeed?	what takes the place of entity?	what 
+titleLeader	what is the title leader of entity?	which title does entity own?	what 
+battles	which battle is entity involved?	which battle does entity take part in?	what 
+developer	who is the developer of entity?	who developed entity?	who
+民族	what is the nationality of entity?	which nationality does entity belong to?	what 
+awards	what is entity awarded?	which award is entity given?	what 
+precededBy	what is preceded by entity?	which one is presented before entity?	what 
+currentclub	what is the current club of entity?	which club does entity belong to currently?	what 
+manager	who is the manager of entity?	who managed entity?	who
+source	who is the source of entity?	where is entity from?	what 
+leaderParty	what is the leader party of entity?	which leader party does entity belong to?	what 
+sport	which sport does entity play?	which team does entity belong to?	what 
+name	what is the name of entity?	what is entity named?	what 
+format	what is the format of entity?		what 
+最大城市名稱	what is the biggest city name of entity?	where is the biggest city of entity?	what 
+keyPeople	who is the key people of entity?	who is the most important people of entity?	who 
+languages	what is the language of entity?	which language is commonly used in entity?	what 
+seats1Title	what is the seat title of entity?	what is entity from?	what 
+deputy	who is the deputy of entity?	who represents entity?	who
+branch	what is the branch that entity belongs to?	which branch does entity belong to?	what 
+ideology	what is the ideology of entity?	what is the idea of entity?	what 
+status	what does the status of entity belong to?	what is the position of entity?	what 
+貨幣單位	what is the currency of entity?	which currency is used in entity?	what 
+era	what happened in the era of entity?	which war is included in the era of entity?	what 
+partof	what does entity belong to?	what includes entity?	what 
+district	which district does entity belong to?	where does entity belong to ?	what 
+allegiance	who does entity work for?	what is the allegiance of entity to?	what 
+locale	what is the location of entity?	where is entity located?	where
+配偶	who is the spouse of entity?	who married entity?	who 
+order	what is in the charge of entity?	where does entity belong to?	what 
+nationalteam	which national team does entity belong to?	what does entity work for?	what 
+commander	who is the commander of entity?	who commanded entity?	who 
+director	who is the director of entity?	who directed entity?	who
+field	which field does entity work in?	what is entity?	what 
+南	what is on the south of entity?	where is the south of entity?	what 
+stadium	where is the stadium of entity held?	which place doe entity take place?	where
+consort	who is the consort of entity?	who married entity?	who
+monarch	who is the monarch of entity?	who is entity?	who 
+last	where does entity come from?	what is entity originated from?	what 
+國家首都名稱	what is the capital name of entity?	where is the captial of entity located?	what 
+team	which team takes part in entity?	what is involved in entity?	what 
+manufacturer	who is the manufacturer of entity?	who manufactured entity?	who 
+appointer	who appointed tail?	who is the appointer of entity?	who 
+fam	what does entity belong to?	which language does entity belong to?	what 
+locationCity	what is the location city of entity?	which city is entity located?	where
+placeOfDeath	what is the deathpalce of entity?	where did entity die?	where 
+语言	what is the language of entity?	which language is used in entity?	what 
+result	who is the winner of entity?	who wons entity?	who
+family	who is the family of entity?	which family does entity belong to?	who 
+primeminister	who is the prime minister of entity?	which one is known as the prime minister of entity?	who
+incumbent	who is the incumbent of entity?	who is holding the office of entity?	who 
+官方文字	what is the official language of entity?	which official language is used by entity?	what 
+官方語言	what is the official language of entity?	which official language is used by entity?	what 
+語言	what is spoken by entity?	which language does entity use?	what 
+parents	who is the parent of entity?	who gave birth to entity?	who 
+ethnicity	what is the ethnicity of entity?	which race does entity belong to?	what 
+國際域名縮寫	what is the international domain name abbreviation of entity?	how does entity abbreviate?	what 
+constituencyWestminster	what is the electoral district of entity?	which district does entity belong to?	what 
+states	which country uses entity?	where is entity used?	what 
+royalHouse	which royal house does entity belong to?	what is the royal house of entity?	what 
+政治體制	what is the political system of entity? 	which political system does entity belong to?	what 
+publisher	who is the publisher of entity?	who published entity?	who 
+countryofbirth	which country is entity born?	what is the country of birth of entity?	where 
+influences	who does entity influence?	who is influenced by entity?	who
+burialPlace	what is the burial place of entity?	where is entity buried?	where
+nickname	what is the nickname of entity?	what is the other name that entity is known as?	what 
+prev	who is the predecessor of entity?	who works before entity?	who 
+clubs	which club does entity belong to?	what is the club that entity belongs to?	what 
+西	what is the west of entity?	what lies on the west of entity?	what 
+countryAdminDivisions	what is the country admin division of entity?	which admin division does entity belong to?	what 
+producer	who is the producer of entity?	who produced entity?	who 
+influenced	who does entity influence?	who is influenced by entity?	who
+youthclubs	what is the youth club of entity	which youth club does entity belong to?	what 
+combatant	what is the combatant of entity?	what is the warrior of entity?	what
+start	what is the start of entity?	which station does entity start?	what 
+東	what is the east of entity?	what lies on the east of entity?	what 
+東北	what is the northeast of entity?	what lies on the northeast of entity?	what 
+network	what is the network of entity?	which network does entity belong to?	what 
+seats3Title	what is the seat title of entity?	where is entity?	what 
+birthplace	where is entity from?	what is birthplace of entity?	what 
+上一節目	which program is before entity?	what is the program that is before entity?	what 
+largestCity	what is the largest city of entity?	which is the largest city of entity?	what 
+seats2Title	what is the seat title of entity?	where is entity?	what 
+下一節目	what is the program after entity?	what is the program that is after entity?	what 
+artist	who is the artist of entity?	who created entity?	who 
+placeOfBurial	what is the burial place of entity?	where is entity buried?	where 
+designer	who is the designer of entity?	who designed entity?	who 
+creator	who is the creator of entity?	who created entity?	who 
+instrument	what is the instrument that entity plays?	which instrument does entity play?	what 
+starring	who starred in entity?	who is the starring role of entity?	who 
+locationCountry	which country is entity located?	what is the location country of entity?	what 
+affiliation	what is the affiliation that entity belongs to?	which affiliation does entity belong to?	what 
+affiliations	what is the affiliation that entity belongs to?	which affiliation does entity belong to?	what 
+北	what is the north of entity?	what lies in the north of entity?	what 
+nation	which nation does entity belong to?	where is entity from?	what 
+writer	who is the writer of entity?	who wrote entity?	who 
+architect	who is the architect of entity?	who built entity?	who 
+garrison	what is the location of the garrsion of entity?	where does entity defend?	what 
+教育程度	where is entity educated?	which school does entity belong to?	what
+college	where did entity study?	which college does entity study?	what 
+rank	what is the rank of entity?	which rank does entity belong to?	what 
+subdivisionRanks	what is the subdivision rank of entity?	which rank does entity belong to?	what 
+出生地	what is the birthplace of entity?	where is entity born?	where
+西北	what lies to the northwest of entity?	what is the northwest of entity?	what 
+areas	which area is swept through by entity?	where did entity go?	what 
+coach	who is the coach of entity?	who coached entity?	who 
+education	where is entity educated?	which college does entity study?	what 
+constituency	where is the constituency of entity from?	what is the constituency of entity?	where 
+profession	what is the profession of entity?	what does entity do?	what 
+父親	who is the father of entity?	who is the male parent of entity?	who 
+discoverySite	what is the discovery site of entity?	where is entity discovered?	what 
+mapCaption	what is the map caption of entity?	where does entity belong to?	what 
+shireCounty	which county does entity belong to?	where is entity?	what 
+西南	what lies to the southwest of entity?	what is the southwest of entity?	what 
+tenants	who is the tenant of entity?	who lives in entity?	who 
+archipelago	which archipelago does entity belong to?	where is entity?	what 
+honorificSuffix	who gives the honorific suffix of entity?	where does entity get the honorific suffix?	what 
+draftTeam	what is the draft team of entity?	which draft team does entity belong to?	what
+body	what is the body of entity?	where does entity work?	what 

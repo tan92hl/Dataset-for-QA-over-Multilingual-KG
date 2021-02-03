@@ -1,0 +1,200 @@
+éditeur	Editeur de entity
+auteur	Auteur de entity
+lieu	lieu de entity
+prédécesseur	Prédécesseur de entity
+subdivision	 entity du Palais des Nations
+siège	Siège du entity
+avant	avant entity
+successeur	Successeur de entity
+région	La région de entity
+type	type de entity
+nom	Nom de entity
+après	Après entity
+ville	La ville de entity
+titre	titre entity
+lieuDeNaissance	Le lieu de naissance de entity
+liste	Une liste de entity
+site	Site  sur entity
+fonction	La fonction de entity
+président	Président entity
+propriétaire	Le propriétaire de entity
+langue	La langue entity 
+légende	La légende entity 
+lieuDeDécès	La scène de la mort de entity
+capitale	 la capitale est entity
+pays	Le pays de entity
+localisation	Le positionnement de entity
+précédent	 précédente du entity
+suivant	 suivante entity
+nomDeDivision	nomDeDivision entity
+périodique	Le périodique de entity 
+commune	Commune de la entity 
+division	Le département de entity
+origine	L’origine du entity
+préface	La préface du entity
+équipementSportif	équipementSportif entity
+lienSubdivision	la subdivision de entity 
+province	La province de entity
+club	Le club de entity
+chefLieu	Le chef de entity 
+tenant	Le tenant de la entity 
+premTitulaire	Titulaire du prem entity
+gouvernement	Le gouvernement de entity
+affiliation	L'affiliation de la entity 
+ouest	L'ouest de entity 
+état	L’état dans lequel se trouve entity
+palmarèsNational	Le palmarès National du entity
+stade	Le stade de  entity
+nomCapitale	La première lettre de la entity
+constructeur	Le constructeur  de entity
+est	
+quartier	Le quartier sur entity
+sud	Le sud de entity
+fondateur	Fondateur du  entity
+nordEst	Le nord-est de entity
+premierMinistre	Premier ministre  de entity
+nord	Le nord de  entity
+embouchureLocalisation	L’emplacement de entity
+nordOuest	Le nord-ouest de entity
+championnatActuel	L’actuel champion de entity
+situation	L'emplacement de entity 
+parti	Le parti de  entity
+lienRégion	La zone de  entity
+sudEst	Le sud du entity 
+précédente	La précédente de entity
+sudOuest	Le sud ouest du entity
+équipe	L’équipe de entity
+monarque	Monarque de  entity
+bassinCollecteur	Le bassin de  entity
+sépulture	 La sépulture de entity
+plusTitré	Le titre le plus élevé de la entity
+entraîneur	Entraîneur des  entity
+nationalité	La nationalité de  entity
+valeur	La valeur du entity 
+langues	Langue  entity
+législature	La législature de  entity
+conjoint	Le conjoint de  entity
+commandant	Commandant de  entity
+titulaireActuel	L’empereur  du entity
+portD'attache	Le port  D'attach de  entity
+comté	Comté de  entity
+commanditaire	le commanditaire de entity
+collection	
+éponyme	L’éponyme de entity 
+pointCulminant	Les point Culminant de  entity
+régime	Le régime du  entity
+hiérarchie+_	L’hiérarchie de entity
+combattants	Les combattants de entity
+leadera	Le leadera du  entity
+ligue	La ligue des  entity
+catégorie	Catégorie  entity
+subdivisionsTerritoriales	La division territoriale de  entity
+paysDeNaissance	Le pays de naissance de entity
+nomDeCode	Le nom de code de  entity
+siège(ville)_	Le siège de  entity
+coalition	La coalition de entity
+finaliste	Le finaliste de la entity 
+district	District de  entity
+titreLeadera	Le titre de  entity
+suivante	La suivante de entity 
+adresse	L’adresse de  entity
+lieuOrigine	L’adresse d’origine de entity
+lieuDeVénération	Lieu DeVénération de entity
+subdivision1Type	"subdivision1Type de entity	"
+intituléSubdivision	"l’intitul de entity Subdivision	"
+chef	chef de entity
+gouverneur	gouvernant de entity
+sel	le sel de entity
+auteurs	L’auteur de entity
+autoritéUnitaire	L’autorité de entity
+palmarèsInternational	palmarès international de entity
+exploitant	exploitant de entity
+genre	genre de entity
+statut	statut de entity
+parlement	parlement de entity
+sexe	sexe de entity
+équipeNfl	équipe de l'entity Nfl
+villeDepart	ville de départ de entity
+début	début de entity
+paysDeDécès	de entity paie De Décès
+villesPrincipales	villages de entity
+destination	destination de entity
+coupe	coupé de entity
+clubJunior	clubJunior de entity
+lanceur	lanceur de entity
+typeSubdivision	subdivision de type entity
+mandant	mandant de entity
+famille	famille de entity
+lieuparutionOrig	lieuparution de entity
+champion	champion de entity
+capitaine	Le capitaine de entity
+activités	activités de entity
+groupeParlementaire	groupe de entity Parlementaire
+hiérarchie	hiérarchie de entity
+créateur	créateur de entity
+porteDrapeau	porteDrapeau de entity
+mission	mission de entity
+partiSuccesseur	le partiSuccesseur de entity
+vainqueur	vainqueur de entity
+villeArrivee	villeArrivee de entity
+villes	villes de entity
+organisation	entity d'organisation
+département	département de entity
+franchit	franchise de entity
+père	père de entity
+dr	Le Dr de entity
+deuxième	Le deuxième champion de entity
+territoire	territoire de entity
+chaîne	chaîne du entity
+modèlePrécédent	modèle précédent de entity
+usine	entity d'usine
+sociétéSœur	société Sœur de entity
+massif	massif de entity
+modèleSuivant	modèle suivant de entity
+couleurs	La couleur de la entity
+cible	La cible assassinée par entity 
+nomSubdivisionMère	NomSubdivision Mère à entity
+découvreur	découvreur de entity
+fratrie	fratrie de entity
+marque	Marque de entity
+voirAussi	voirAussi de entity
+sport	sport de entity
+lang	La langue de entity
+allégeance	allégeance de entity
+chantier	chantier de entity
+série	Séries de entity
+développeur	développeur de entity
+dynastie	La dynastie entity 
+concepteur	"concepteur de entity	"
+saisonPrécédente	La saison précédente de entity 
+œuvre	L’œuvre de entity
+saisonSuivante	La prochaine saison de entity 
+vicePrésident	vice-président de entity
+franchise	La franchise de entity
+chaine	chaîne de entity
+origineNom	Nom original de entity 
+artiste	L'artiste de entity
+formation	formation de entity
+armateur	le armateur du entity 
+précédéPar	Le modèle précédéPar du entity 
+présentation	La présentation de entity 
+fabricant	le fabricant de entity
+leader	Le leader de entity
+partiPrédécesseur	Le parti précédent aux entity
+réalisateur	"réalisateur de entity	"
+titreDeLaSérie	
+mère	mère de entity
+plusGrandeVille	La plus grande ville de entity 
+traducteur	Le traducteur des entity 
+versionPrécédente	La version précédente de entity 
+drapeauLien	"lien drapeau de entity	"
+compagnie	compagnie de entity
+fusionnéDans	
+suiviPar	
+organisateur	organisateur de entity
+résidenceOfficielle	La résidence officielle du entity 
+localité	La localité de entity
+stationSuivante	La station Suivante de entity
+leaderc	Le leader de entity
+héritier	L’héritier de entity
+featuring	

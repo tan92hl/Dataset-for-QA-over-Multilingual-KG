@@ -2,8 +2,7 @@
 # MLPQ: A Dataset for Path Question Answering over Multilingual Knowledge Graphs
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.txt)
 
-> Existing Knowledge Graph based Multilingual Question Answering (KG-MLQA) works mainly focus on the semantic parsing of multilingual questions, but ignore the combination
-of multilingual knowledge, which makes the QA system fail to break through the limitation of monolingual resources and has no potential to cover all of questions. Through a semiautomatic template synthesis process, we present MLPQ, a parallel path question answering dataset based on bilingual knowledge graphs extracted from DBpedia, which contains 827k questions and covers three language pairs (Chinese/English, Chinese/French, and English/French). Each question in MLPQ includes two or three relations, and requires the integration of information from bilingual knowledge graphs. Based on the MLPQ, we propose the first QA task over multilingual KGs, named Cross-lingual Path Question (CLPQ). The popular path question answering and multiple knowledge question answering (QA) models are used to establish two baselines of MLPQ. Experiments show that existing QA models cannot precisely respond to CLPQ. This work may further promote the development of Multilingual KGQA and information retrieval.
+> Existing Knowledge Graph-based Multilingual Question Answering (KG-MLQA) works mainly focus on the semantic parsing of multilingual questions but ignore the combination of multilingual knowledge, which makes KGbased question answering (KGQA) systems do not make full use of multilingual knowledge. In this article, we extend KG-based multilingual question answering (KG-MLQA) to question answering over multilingual KGs (ML-KGQA), which requires the integration of information from at least two knowledge graphs in different languages. Through a semiautomatic question generation method, we establish MLPQ, the first ML-KGQA dataset over multilingual DBpedia, which contains 300K path questions and covering three languages of English, Chinese and French. To make recent embedding-based methods easier to test on our datasets, we also propose a new KG sampling algorithm, with which we generate subgraphs that retains the structural characteristics of DBpedia and use it as the knowledge graphs of MLPQ. Using cross-lingual entity alignment and multilingual BERT, we propose a universal framework for ML-KGQA and evaluate the state-of-the-art multi-hop QA model on MLPQ. Experiments show that the existing QA model cannot precisely respond to questions over multilingual KGs in terms of alignment model’s accuracy.
 
 ## Table of contents
   1. [Datasets](#datasets)
@@ -21,65 +20,53 @@ of multilingual knowledge, which makes the QA system fail to break through the l
 ## Datasets
 
 ### Overview
-There are a total of 827k questions in MLPQ, which covers three language pairs (**Chinese/English**, **Chinese/French**, and **English/French**), and requires a **2-hop** or **3-hop** cross-lingual path inference to answer each question.
+There are a total of 300K questions in MLPQ, which covers three language pairs (**Chinese/English**, **Chinese/French**, and **English/French**), and requires a **2-hop** or **3-hop** cross-lingual path inference to answer each question.
 
 ### Dataset creation
-We establish MLPQ through a four-step semi-automatic process: 
-1. **Triple pairs selection**: obtain the candidate triple pairs (2-hop and 3-hop) based on the Inter Language Links(ILLs) of DBpedia;
-2. **Construction of templates**: build single-hop templates and synthesize them into multi-hop templates;
-3. **Diversity**: increase the template diversity by paraphrases;
-4. **The building of Questions**: generate questions by adding topic entities into templates.
-
-For more detailed explanation, please refer to our paper.
+We establish MLPQ through a semi-automatic process shown as below:
+![Dataset Creation](resources/dataset_creation.png)
 
 ### Statistics
 
-Number of triple pairs extracted from Dpedia to generate questions of CLPQ (Top-200 relations of each language):
+The number of the selected triple pairs for question generation(2-hop and 3-hop), the number of entities covered in the selected triple pair, and the number of relation pairs covered in the selected triple pair:
 
-|  Language pair | Direction | 2-hop | 3-hop |
-| --- | --- | --- | --- |
-|  en-zh | en→zh | 2743557 | 5022783 |
-|   | zh→en | 9415 | 32895 |
-|  zh-fr | zh→fr | 8618 | 20443 |
-|   | fr→zh | 506695 | 769711 |
-|  en-fr | en→fr | 533786 | 1708099 |
-|   | fr→en | 10816641 | 4868011 |
+| KG | 2-hop | 3-hop | Entity | Rel Pairs |
+| --- | --- | --- | --- | --- |
+| en-zh | 19k | 45k | 33k | 4.5k |
+| en-fr | 22k | 68k | 54k | 8.7k |
+| zh-fr | 10k | 35k | 23k | 2.8k |
  
-Statistics of each subset of MLPQ, ”Q” means
-”questions”, ”Lan” means ”language”:
+The statistics of the generated questions, each subset contains English, Chinese, and French versions, with a total scale of 326,952 questions:
 
-|  Lan. pair | type | Q.Lan | #Q | #Ent | #Rel |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|  en-zh | 2-hop | en | 65741 | 49016 | 89 |
-|   |  | zh | 129535 | 49225 | 89 |
-|   | 3-hop | en | 97107 | 68143 | 198 |
-|   |  | zh | 85167 | 21368 | 147 |
-|  zh-fr | 2-hop | zh | 59650 | 22690 | 86 |
-|   |  | fr | 27850 | 22532 | 86 |
-|   | 3-hop | zh | 34796 | 12938 | 146 |
-|   |  | fr | 35076 | 30732 | 189 |
-|  en-fr | 2-hop | en | 71605 | 52913 | 77 |
-|   |  | fr | 49061 | 53012 | 77 |
-|   | 3-hop | en | 93249 | 62988 | 185 |
-|   |  | fr | 78229 | 72505 | 172 |
+| KG    | 2-hop | 3-hop | 2-hop Relation Pairs | 3-hop Relation Pairs|
+| ----- | ----- | ----- | -------------- | -------------- |
+| en-zh | 10133 | 22414 | 1322           | 2853 |
+| en-fr | 9979  | 37381 | 1195           | 6368 |
+| zh-fr | 5604  | 24373 | 761            | 1719 |
+| Sum   | 25716 | 84168 | 3278           | 10940 |
 
 ### Use of the datasets
 - The datasets are available in two formats. One is in RDF format, the other is in a custom format similar to the datasets used in [IRN](https://github.com/zmtkeke/IRN/tree/master/PathQuestion).
 - All the datasets are in the [datasets](./datasets) directory. For explanation of file naming convensions and our custom format, please refer to this directory for further information.
 
 ## Baselines
-- We establish two baseline models of MLPQ based on the popular multi-hop reasoning model [IRN](https://github.com/zmtkeke/IRN/tree/master/PathQuestion) and [multiple KGQA model](https://dl.acm.org/doi/10.5555/3016100.3016335), combined with a representative [Cross-ingual Entity Aligment (CLEA) model](https://github.com/muhaochen/MTransE-tf).
-- The two baselines are called **MIRN** and **CL-MKQA** respectively.
+- We established 3 baseline models of MLPQ.
+- The latest baseline combines [**NMN**](https://github.com/StephanieWyt/NMN) and [**UHop**](https://github.com/zychen423/UHop.git) on our latest dataset that have integrated bilingual KGs. It is the one that achieves highest scores on our datasets.
+- The other 2 older models use [MTransE](https://github.com/muhaochen/MTransE-tf) and are tested on the 1.0 version of our datasets:
+  - **MIRN** is based on the popular multi-hop reasoning model [IRN](https://github.com/zmtkeke/IRN/tree/master/PathQuestion).
+  - **CL-MKQA** is based on a [multiple KGQA model](https://dl.acm.org/doi/10.5555/3016100.3016335)
 - Baseline codes are in the [baselines](baselines) directory. To try these baselines, please refer to this directory for further information.
 
 ## Versions and future work
 
+### Version 1.2 update
+Recreated the datasets to address the diversity problem and the redundancy problem in the datasets. As a result, we now have fewer questions. Also added a new baseline framework combining NMN and UHop with Bert.
 ### Version 1.1 update
 In this slightly improved version, we corrected many grammatical errors and added the RDF version of all the datasets.
 
 ### Current version
-- Currently the MLPQ version is `1.1`. We expect to further the work and provide datasets of higher quality and more variety in the future.
-- Because the generation of MLPQ is semi-automatic and relys on manually crafted templates and machine translation to some degree, there might be some minor problems in the text. We try to improve the quality of MLPQ by post-editing and there should be very few problems now. However, if you find any errors in the dataset, please contact us, thanks.
+- Currently the MLPQ version is `1.2`. We expect to further the work and provide datasets of higher quality and more variety in the future.
+- Because the generation of MLPQ is semi-automatic and relies on manually crafted templates and machine translation to some degree, there might be some minor problems in the text. We try to improve the quality of MLPQ by post-editing and there should be very few problems now. However, if you find any errors in the dataset, please contact us, thanks.
 
 ### Future work
 For now, MLPQ mainly contains 2-hop and 3-hop path questions. In the future, we plan to adopt retelling generation based on web resources to create a greater abundance of question expressions. The path question is merely one subset of complex questions; we also plan to update and augment factoriented complex questions with property information and to explore aggregate-typed complex questions.

@@ -1,0 +1,198 @@
+location	the location of entity
+type	the type of entity
+title	the title of entity
+birthPlace	the birthplace of entity
+subdivisionName	the subdivision name of entity
+predecessor	the predecessor of entity
+successor	the successor of entity
+region	the region of entity
+caption	the caption of entity
+before	the predecessor of entity
+city	the location of entity
+country	the location of entity
+religion	the religion of entity
+after	the predecessor of entity
+subdivisionType	the subdivision type of entity
+spouse	the spouse of entity
+timezone	the timezone of entity
+language	the language of entity
+capital	the captial of entity
+owner	the owner of entity
+founder	the founder of entity
+genre	the genre of entity
+occupation	the occupation of entity
+leader	the leader of entity
+party	the party of entity
+state	the state of entity
+deathPlace	the deathplace of entity
+almaMater	the alma mater of entity
+province	the province of entity
+leaderName	the leader of entity
+leaderTitle	the leader titile of entity 
+office	the office of entity
+president	the country that entity belong to 
+nationality	the nationality of entity
+father	the father of entity
+position	the sport that entity play
+headquarters	the headquarter of entity
+products	the product of entity
+imageCaption	the image caption of entity
+industry	the industry of entity
+cityofbirth	the birthplace of entity
+seat	the location of entity
+timezoneDst	the timezone of entity
+knownFor	the bay that entity is famous for
+eventEnd	the ending of entity
+governmentType	the government type of entity
+namedAfter	the name used to name entity
+placeOfBirth	the dynasty that entity is born into/ the birthplace of entity
+parent	the mountain range of entity
+league	the league that entity belong to
+territory	the location of entity
+timezone1Dst	the timezone of entity
+arrondissement	the arrondissement of entity
+operator	the operator of entity
+house	the house that entity belongs to
+settlementType	the settlement of entity
+label	the label that entity belongs to
+residence	the address of entity
+mother	the mother of entity
+place	the place where entity occur
+eponym	the name used to name entity
+author	the author of entity
+canton	the canton of entity
+event	the event happened in entity
+companyType	the company type that entity belong to
+related	the car that entity is related to
+chairman	the chairman of entity
+ground	the ground of entity
+commonLanguages	the common language of entity
+origin	the origin of entity
+currency	the currency of entity
+children	the children of entity
+series	the series of entity
+職業	the occupation of entity
+issue	the successor of entity
+next	the successor of entity
+postalCodeType	the post code type of entity
+eventStart	the event that started entity
+legislature	the legislature of entity
+succession	the country that entity succeeds
+titleLeader	the title leader of entity
+battles	the battle that entity is involved
+developer	the system that entity developed
+民族	the nationality of entity
+awards	the award that entity is given
+precededBy	the movie that is preceded by entity
+currentclub	the current club of entity
+manager	the manager of entity
+source	the source of entity
+leaderParty	the leader party of entity
+sport	the sport that entity play
+name	the name of entity
+format	the format of entity
+最大城市名稱	the biggest city name of entity
+keyPeople	the key people of entity
+languages	the language of entity
+seats1Title	the seat title of entity
+deputy	the deputy of entity
+branch	the branch that entity belongs to 
+ideology	the ideology of entity
+status	the status that entity belongs to
+貨幣單位	the currency of entity
+era	the war that happened in the era of entity
+partof	the one that entity belongs to
+district	the district of entity 
+allegiance	the allegiance of entity
+locale	the location of entity
+配偶	the spouse of entity
+order	the appartment that entity is in charge of 
+nationalteam	the national team that entity belongs to 
+commander	the commander of entity
+director	the director of entity
+field	the field that entity works in
+南	the south of entity
+stadium	the stadium of entity
+consort	the consort of entity
+monarch	the monarch of entity
+last	the one that entity comes from
+國家首都名稱	the capital name of entity 
+team	the one that takes part in entity
+manufacturer	the manufacturer of entity 
+appointer	the appointer of entity
+fam	the language that entity belongs to
+locationCity	the location of entity
+placeOfDeath	the death place of entity
+语言	the language of entity
+result	the winner of entity
+family	the family of entity
+primeminister	the prime minister of entity
+incumbent	the incumbent of entity
+官方文字	the official language of entity
+官方語言	the official language of entity
+語言	the language that entity uses
+parents	the parent of entity
+ethnicity	the ethnicity of entity
+國際域名縮寫	the international domain name abbreviation of entity
+constituencyWestminster	the electoral district of entity
+states	the country that is spoken entity
+royalHouse	the royal house of entity 
+政治體制	the political system of entity
+publisher	the publisher of entity
+countryofbirth	the country of birth of entity
+influences	the one that is influenced by entity
+burialPlace	the burial place of entity
+nickname	the nickname of entity
+prev	the predecessor of entity
+clubs	the club that entity belongs to
+西	the west of entity
+countryAdminDivisions	the country admin division of entity
+producer	the producer of entity
+influenced	the one that is influenced by entity
+youthclubs	the youth club that entity belongs to
+combatant	the combatant of entity
+start	the start of entity
+東	the east of entity
+東北	the northeast of entity
+network	the network of entity
+seats3Title	the seat title of entity
+birthplace	the birthplace of entity
+上一節目	the program that is before entity
+largestCity	the largest city of entity
+seats2Title	the seat title of entity
+下一節目	the program that is after entity
+artist	the artist of entity
+placeOfBurial	the burial place of entity
+designer	the designer of entity
+creator	the creater of entity
+instrument	the instrument that entity plays
+starring	the starring of entity
+locationCountry	the location country of entity
+affiliation	the affiliation that entity belong to
+affiliations	the affiliation that entity belong to
+北	the north of entity
+nation	the nation that entity belongs to
+writer	the writer of entity
+architect	the architect of entity
+garrison	the place that entity defenf
+教育程度	the school that entity is educated at
+college	the college that entity study
+rank	the rank of entity
+subdivisionRanks	the subdivision rank of entity
+出生地	the birthplace of entity
+西北	the northwest of entity
+areas	the area swept through by entity
+coach	the coach of entity
+education	the college that entity study
+constituency	the constituency of entity
+profession	the profession of entity
+父親	the father of entity 
+discoverySite	the discovery site of entity
+mapCaption	the map caption of entity
+shireCounty	the county that entity belongs to
+西南	the country that lies to the southwest of entity
+tenants	the tenant of entity
+archipelago	the archipelago that entity belongs to
+honorificSuffix	the one that gives the honorfic suffix of entity
+draftTeam	the draft team of entity
+body	the body of entity

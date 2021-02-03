@@ -1,0 +1,198 @@
+location	L’emplacement de le entity
+type	Type de entity
+title	Titre de entity
+birthPlace	Lieu de naissance de entity
+subdivisionName	Nom de la division administrative de entity
+predecessor	Prédécesseur de entity
+successor	Héritier de entity
+region	Zone de entity
+caption	Intitulé de entity
+before	Avant entity
+city	La ville où se trouve le entity
+country	Pays où se trouve la entity
+religion	La religion de entity
+after	entity suivante
+subdivisionType	Niveau de gestion des entity
+spouse	Conjoint de entity
+timezone	Le fuseau horaire utilisé par entity
+language	La langue de entity
+capital	Capital de entity
+owner	Propriétaire de entity
+founder	Le créateur de entity
+genre	Type de entity
+occupation	Occupation de entity
+leader	Chef de entity
+party	La partie à laquelle appartient entity
+state	L'état de entity
+deathPlace	Lieu de décès de entity
+almaMater	Alma mater de entity
+province	La province où se trouve entity
+leaderName	Chef de entity
+leaderTitle	Chef de entity
+office	Positions clés détenues par entity
+president	Président effectif de entity
+nationality	Nationalité de entity
+father	Père de entity
+position	Profession de entity
+headquarters	Siège social de entity
+products	produit de entity
+imageCaption	
+industry	L'industrie de entity
+cityofbirth	Ville de naissance de entity
+seat	Centre administratif de entity
+timezoneDst	Le fuseau horaire utilisé par entity
+knownFor	Œuvres célèbres de entity
+eventEnd	Événement de fin de entity
+governmentType	Modèle d'organisation de la gestion municipale de entity
+namedAfter	Origine du nom de entity
+placeOfBirth	L'époque d'où provient entity
+parent	Origine des entity
+league	La ligue jouée par entity
+territory	La zone couverte par entity
+timezone1Dst	Fuseau horaire de entity
+arrondissement	L'arrondissement administratif de entity
+operator	L'opérateur de entity
+house	La dynastie de entity
+settlementType	Le règlement Type de entity
+label	Le label de entity
+residence	L'adresse de entity
+mother	La mère de entity
+place	La position de la entity1
+eponym	Le mot ancestral de entity
+author	L'auteur du entity 
+canton	L’arrondissement de entity 
+event	L'événement qui se produit dans entity
+companyType	Le type d'entreprise de entity
+related	La chose liée à entity 
+chairman	Le président du entity
+ground	L'adresse du entity 
+commonLanguages	La langue commune de le entity
+origin	Le berceau de entity
+currency	La monnaie de la entity
+children	Les enfants du entity 
+series	La entity appartient à une série
+職業	La profession de entity
+issue	Le descendant de entity
+next	Le prochain terme de entity
+postalCodeType	Le code postal à entity
+eventStart	Le entity a été établi
+legislature	Le législateur entity
+succession	La succession de entity
+titleLeader	Le chef de entity
+battles	La bataille de entity 
+developer	Le développeur de entity
+民族	Nationalités auxquelles appartient entity
+awards	Le prix pour entity
+precededBy	Le dernier travail de entity
+currentclub	Le club actuel de entity
+manager	Le manager de entity 
+source	La source d’information du entity
+leaderParty	Le parti de entity
+sport	Le sport de entity
+name	La forme traditionnelle de la entity
+format	Le format du entity
+最大城市名稱	La plus grande ville de la entity 
+keyPeople	Le personnage clé de entity 
+languages	La langue utilisée par le entity
+seats1Title	Le chef du entity
+deputy	L’agent de entity
+branch	La branche de entity
+ideology	L'idéologie du entity
+status	Le statut de la entity
+貨幣單位	L'unité monétaire de la entity 
+era	L'ère de entity 
+partof	La guerre de la entity
+district	La zone où se trouve le entity
+allegiance	Fidélité de entity
+locale	Où appartient entity
+配偶	Conjoint de entity
+order	Institutions dirigées par des entity
+nationalteam	L'équipe nationale de entity
+commander	Généraux des entity participantes
+director	Le mentor de entity
+field	Le champ auquel appartient entity
+南	Les eaux méridionales de entity
+stadium	Le stade hébergeant entity
+consort	Partenaire de entity
+monarch	Monarque dont entity est le chef
+last	Le prochain film de entity
+國家首都名稱	Le nom de la capitale nationale de entity
+team	Équipe de entity
+manufacturer	Fabricant de entity
+appointer	Appointer de entity
+fam	La langue de entity
+locationCity	Localisation de entity
+placeOfDeath	Le lieu de décès de entity
+语言	Langue de entity
+result	Le gagnant de entity
+family	La famille à laquelle appartient entity
+primeminister	Premier ministre de entity
+incumbent	Titulaire actuel de entity
+官方文字	Texte officiel de entity
+官方語言	Langue officielle de entity
+語言	La langue utilisée par entity
+parents	Parents de entity
+ethnicity	Course de entity
+國際域名縮寫	Abréviation du nom de domaine international de entity
+constituencyWestminster	La circonscription de entity
+states	La zone où entity est utilisée
+royalHouse	La famille royale de entity
+政治體制	Système politique de entity
+publisher	Éditeur de entity
+countryofbirth	Pays d'origine de entity
+influences	La personne qui affecte entity
+burialPlace	Lieu de sépulture de entity
+nickname	Surnom de entity
+prev	Le dernier mandat de entity
+clubs	Club dans lequel entity fait partie
+西	Ouest de entity
+countryAdminDivisions	District administratif affilié de entity
+producer	Producteur de entity
+influenced	Personnes affectées par une entity
+youthclubs	Club de jeunesse auquel appartient entity
+combatant	Pays de entity participante
+start	Point de départ de entity
+東	La zone maritime orientale de entity
+東北	Le nord-est de la entity
+network	Internet à l'ère de la entity
+seats3Title	
+birthplace	Le lieu de naissance de la entity 
+上一節目	Le dernier spectacle de la entity
+largestCity	La plus grande ville de la entity
+seats2Title	
+下一節目	Le prochain spectacle de la entity
+artist	L'artiste de la entity 
+placeOfBurial	Le tombeau de entity 
+designer	Le concepteur de entity
+creator	Le créateur de entity 
+instrument	L'instrument utilisé par entity 
+starring	entity est l'acteur 
+locationCountry	Le pays du entity
+affiliation	L'affiliation du entity 
+affiliations	Les affiliations de le entity 0
+北	La partie nord de la entity
+nation	Le pays de la entity 
+writer	L'auteur de entity
+architect	L'architecte de la entity 
+garrison	La garnison de la entity
+教育程度	L’éducation de entity provient 
+college	L’université de entity
+rank	Le rang de entity
+subdivisionRanks	la subdivisionRangs de entity
+出生地	Le lieu de naissance de entity 
+西北	Le nord-ouest de la entity 
+areas	La zone de la entity
+coach	L’entraîneur de entity 
+education	L’éducation de entity 
+constituency	La circonscription de entity
+profession	La spécialité de entity 
+父親	Le père de la entity 
+discoverySite	L'adresse de découverte de la entity 
+mapCaption	La description de la carte du entity
+shireCounty	Le comté de entity 
+西南	Le sud-ouest de la entity
+tenants	Le locataire du entity
+archipelago	La mer autour de la entity
+honorificSuffix	Le suffixe honorifique de entity
+draftTeam	L'équipe de rédaction de entity 
+body	Le principal organe des chefs de entity

@@ -1,0 +1,200 @@
+title	the title of entity
+before	the predecessor of entity
+after	the successor of entity
+location	the location of entity
+birthPlace	the birth place of entity
+predecessor	the predecessor of entity
+caption	the caption of entity 
+region	the region of entity 
+north	the north of entity
+subdivisionType	the subdivision of entity
+west	the west of entity
+type	the type of entity
+deathPlace	the death place of entity
+east	the east of entity
+successor	the successor of entity
+southwest	the southwest of entity
+southeast	the southeast of entity
+shipNamesake	the person that shares the same name with entity
+south	the south of entity
+seat	the east of entity
+country	the country that entity belongs to 
+northeast	the northeast of entity
+owner	the owner of entity
+northwest	the northwest of entity
+founder	the country that entity founded
+city	the city that entity lives in
+name	the name included in the entity
+source	the information source of entity
+operator	the operator of entity
+leader	the leader of entity
+religion	the religion of entity
+state	the location of entity
+event	the event of entity
+venue	the venue that entity is held
+headquarters	the headquarter of entity
+next	the successor of entity
+imageCaption	the image caption of entity 
+postalCodeType	the postal code type of entity
+logo	the logo of entity
+house	the house of entity
+issue	the descendant of entity
+honorificSuffix	the honorific suffix of entity
+place	the place that entity takes place
+namedFor	the name that entity is named for
+s	the sourrounding city of entity
+legislature	the legislature of entity
+stadium	the stadium that entity takes place
+namedAfter	the person that entity is named after
+team	the team that won entity
+first	the first entity
+status	the status of entity
+blankName	the licence needed in entity
+format	the format that entity belongs to
+eventEnd	
+organization	the organization of entity
+honorificPrefix	the honorific suffix of entity
+blankNameSec	the blank name of entity
+eponym	the eponym of entity
+residence	the residence of entity
+province	the province of entity
+party	the party of entity
+district	the district of entity
+style	the style of entity
+almaMater	the alma mater of entity
+proteam	the proteam of entity
+chieftown	the chief town of entity
+family	the family of entity
+sport	the sport that entity works for
+sponsor	the sponsor of entity
+coach	the coach of entity
+areaCodeType	the area code type of entity
+label	the label of entity
+countryAdminDivisions	the country admin division of entity
+source1Location	the source location of entity
+appointer	the appointer of entity
+town	the town of entity
+origin	the origin of entity
+previous	the predecessor of entity
+hqLocationCity	the location city of entity
+succession	the succession of entity
+spouse	the spouse of entity
+league	the league of entity
+manager	the manager of entity
+author	the author of entity
+seats1Title	the seat title of entity
+blankInfoSec	the blank informaiton of entity
+years	the location of entity
+eventStart	the event that starts entity
+data	the data of entity
+series	the series of entity
+commonLanguages	the common language of entity
+theme	the theme of entity
+diocese	the diocese of entity
+tenants	the tenant of entity
+mother	the mother of entity
+president	the president of entity
+notableWorks	the notable work of entity
+seatType	the seat type of entity
+titleLeader	the title leader of entity
+workplaces	the work place of entity
+state/province	the location province of entity
+beforeElection	the one that is before entity
+partof	the part of entity
+related	things related to entity
+capital	the captial of entity
+captain	the captain of entity
+founders	the founder of entity
+burialPlace	the birth place of entity
+establishedTitle	the established title of entity
+blankInfo	the blank informaiton of entity
+club	the club that entity belongs to
+e	the location of entity
+blank1InfoSec	the blank informaiton of entity
+designer	the designer of entity
+education	the education place of entity
+teams	the team that entity belongs to
+establishedEvent	the event that starts entity
+afterElection	the one that is after election of entity
+division	the division that entity belongs to
+nationality	the nationality of entity
+home	the home to entity
+writer	the writer of entity
+affiliation	the affiliation of entity
+ethnicity	the ethnicity of entity
+language	the language of entity
+namesake	the name that entity belongs to
+seats2Title	the seat title of entity
+studio	the studio that entity belongs to
+era	the era of entity 
+etymology	the etymology of entity
+subject	the subject of entity
+parent	the parent of entity
+department	the department of entity
+sign	the sign of entity
+last	the last of entity
+manufacturer	the manufacturer of entity
+w	the west of entity
+n	the north of entity
+nominator	the nominator of entity
+denomination	the denomination of entity
+position	the position of entity
+incumbent	the incumbent of entity
+stateParty	the state party of entity
+partsType	the parts type of entity
+start	the start of entity
+cctld	the domain name of entity
+parents	the parent of entity
+college	the college of entity
+leader1Name	the leader of entity
+blank1NameSec	the blank name section of entity
+host	the host of entity
+architect	the architect of entity
+locale	the locale of entity
+nw	the northwest of entity
+precededBy	the one that is preceded by entity
+round	the competition that entity takes part in
+area	the area that entity is located in 
+municipality	the municipality of entity
+dedication	the dedication of entity
+other	the other thing of entity
+regent	the regnet of entity
+1namedata	the other name of entity
+workInstitutions	the institution that entity works
+developer	the developer of entity
+chronology	the author of entity
+hqLocationCountry	the country that the headquarter of entity is located in
+awardedBy	the award that entity is given to
+inaugural	the inaugural of entity
+story	the franchise of the story of entity?
+music	the music of entity
+creator	the creator of entity
+genre	the genre that entity belongs to
+extra	the extra of entity
+artist	the artist of entity
+alongside	the one who is alongside entity
+father	the father of  entity
+basedOn	
+controlledby	the controller of entity
+client	the client of entity
+dynasty	the dynasty that entity belongs to
+target	the disease that entity is targeted at
+lyrics	the lyrics of entity
+premier	the premier of entity
+publisher	the publisher of entity
+usedBy	the user of entity
+workInstitution	the institution that entity works
+deputy	the deputy of entity
+primaryUser	the primary user of entity
+as	the list that entity belongs to 
+preceded	the one that is preceded by entity
+appointed	the appointer of entity
+subdivision	the subdivision of entity
+children	the children of entity
+candidate	the candidate of entity
+officiallyOpenedBy	the one who officially open entity
+countriesAffected	the country that is affected by entity
+body	the body of entity
+county	the county of entity
+blank2InfoSec	the blank informaiton of entity
+ancestry	the ancestry of entity

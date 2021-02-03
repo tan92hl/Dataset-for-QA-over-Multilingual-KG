@@ -1,0 +1,200 @@
+éditeur	who is the editor of entity?	who edited tail?	who
+auteur	who is the author of entity?	who wrote entity?	who
+lieu	where is entity located?	which place is entity located in?	where
+prédécesseur	who is the predecessor of entity?	who is before entity?	who
+subdivision	what is the subdivision of entity?	which subdivision does entity belong to?	what 
+siège	where is entity located?	which place is entity located in?	where
+avant	who is the predecessor of entity?	who is before entity?	who
+successeur	who is the successor of entity?	who takes the place of entity?	who
+région	where is entity located?	which region does entity belong to?	where
+type	which type does entity belong to?	what is the type of entity?	what 
+nom	what is the name of the place that entity belongs to?	which museum does entity belong to?	what 
+après	who is the successor of entity?	who takes the place of entity?	who
+ville	where is entity located?	which district does entity belong to?	where
+titre	what is the title of entity?	which title does entity belong to?	what 
+lieuDeNaissance	where is entity born?	what is the birthplace of entity?	where
+liste	which list does entity belong to?	what does entity belong to?	what 
+site	where is entity located?	which institution does entity belong to?	where
+fonction	what includes entity's function?	where can be found the function of entity?	what 
+président	who is the president of entity?	which president does entity work for?	who
+propriétaire	who owns entity?	who is the owner of entity?	who
+langue	what is the language used by entity?	which language is used by entity?	what 
+légende	who is the legend of entity?	who is the famous person in entity?	who
+lieuDeDécès	where did entity die?	what is the death place of entity?	where
+capitale	what is the capital of entity?	which city is the captial of entity?	what 
+pays	where is entity located?	which country does entity belong to?	where
+localisation	what does entity navigate?	what does entity locate?	what 
+précédent	who is the predecessor of entity?	who is before entity?	who
+suivant	who is the successor of entity?	who takes the place of entity?	who
+nomDeDivision	what is the division name of entity?	which subdivision does entity belong to?	what 
+périodique	what is the journal of entity?	which journal does entity belong to?	what 
+commune	what is the landmark of entity?	which building is known as the landmark of entity?	what 
+division	what is the division of entity?	which division does entity belong to?	what 
+origine	what is the origin of entity?	what is entity originated from?	what 
+préface	what is the preface of entity?		what 
+équipementSportif	what is the home court of entity?	where is the home court of entity located?	what 
+lienSubdivision	which subdivision is related to entity?	what is the subdivision that is related to entity?	what
+province	which province does entity belong to?	what is the province that entity belong to?	what 
+club	which club does entity belong to?	which club does entity work for?	what 
+chefLieu	what is the capital of entity?	which city is the captial of entity?	what 
+tenant	who is the supporter of entity?	who supported entity?	who
+premTitulaire	who is the current president of entity?	who is the sitting president of entity?	who
+gouvernement	what is the government of entity?	which government does entity work for?	what 
+affiliation	what does entity belong to?	which organization is entity affiliated to?	what 
+ouest	what is the west of entity?	what lies in the west of entity	what 
+état	where is entity?	where is entity located?	where
+palmarèsNational	which competition does entity win?	what did entity win?	what 
+stade	where is the stadium of entity?	which stadium is used by entity?	what 
+nomCapitale	what is the capital title of entity?	which title does entity belong to?	what 
+constructeur	who constructed tail?	who is the constructor of entity?	who
+est	what is the east of entity?	what lies in the east of entity?	what 
+quartier	how much area does entity take up?	what is the area of entity?	what 
+sud	what is the south of entity?	what lies in the south of entity?	what 
+fondateur	who is the founder of entity?	who founded entity?	who
+nordEst	what is the northeast of entity?	what lies in the northeast of entity?	what 
+premierMinistre	who is the premier minister of entity?	who holds the office of entity?	who
+nord	what is the north of entity?	what lies in the north of entity?	what 
+embouchureLocalisation	what is the location of entity?	where is entity located?	where
+nordOuest	what is the northewest of entity?	what lies in the northwest of entity?	what 
+championnatActuel	who won the this championship of entity?	who is the current winner of entity?	who
+situation	what is the location of entity?	where is entity located?	where
+parti	which party does entity belong to?	what is the party of entity?	what 
+lienRégion	where is the contact region of entity?	which region does entity contact?	where
+sudEst	what is the southeast of entity?	what lies in the southeast of entity?	what 
+précédente	who is the last owner of entity?	who won the last entity?	who
+sudOuest	what is the southwest of entity?	what lies in the southwest of entity?	what
+équipe	what does the team of entity belong to?	which association does entity belong to?	what 
+monarque	who is the monarch of entity?	who is the king of entity?	who
+bassinCollecteur	where does entity flow into?	which ocean does entity flow into?	what 
+sépulture	what is the burial of entity like?	what does the burial of entity look like?	what 
+plusTitré			
+entraîneur	who is the coach of entity?	who trained entity?	who
+nationalité	what is the nationality of entity?	where is entity from?	what 
+valeur	what is the value of entity?		what 
+langues	which language is used by entity?	what is the language that is used by entity?	what 
+législature	which legislature does entity belong to?	which legislature does entity work for?	what
+conjoint	who is entity related to?	who shares the same fate with entity?	what 
+commandant	who is the commander of entity?	who commanded entity?	who
+titulaireActuel	who is the current emperor of entity?	who is the monarch of entity?	who
+portD'attache	where is the port of entity?	which port does entity belong to?	what 
+comté	where is entity?	which county does entity belong to?	what 
+commanditaire	who is the mandator of entity?	who funded entity?	who
+collection			
+éponyme	which place is named after entity?	who is the denominator of entity?	what 
+pointCulminant	what is highest point of entity?		what 
+régime	what is the regime of entity?	what does entity depend on?	what 
+hiérarchie+_	what is the hierarchy of entity?	which hierarchy does entity belongs to?	what 
+combattants	what does the combattants of entity belong to?	where do the combattants of entity from?	what 
+leadera	who is the leader of entity?	who leads entity?	who
+ligue	which league does entity belong to?	which league does entity work for?	what 
+catégorie	what is the category of entity?	which category does entity belong to?	what 
+subdivisionsTerritoriales	which subdivision territory does entity belong to?	what is the subdivision territory of entity?	what 
+paysDeNaissance	which country is entity born?	where is entity born?	where
+nomDeCode	which code does entity belong to?	what is the code of entity?	what 
+siège(ville)_	what is the location of entity?	where is entity located?	what 
+coalition	what is the coalition of entity?	who takes up the most?	what 
+finaliste	who is the finalist of entity?	which team belongs to the finalist of entity?	who
+district	what does entity belong to?	which district does entity belong to?	what 
+titreLeadera	what is the leader title of entity?	which title does entity belong to?	what 
+suivante	who is the successor of entity?	who takes the place of entity?	who
+adresse	what is the address of entity?	where is entity located?	what 
+lieuOrigine	what is the origin of entity?	where is entity originated from?	what 
+lieuDeVénération	where does the veneration take place?	what is the veneration place of entity?	what 
+subdivision1Type	what is the subdivision of entity?	which subdivision does entity belong to?	what 
+intituléSubdivision	what is the subdivision name of entity?	which subdivision does entity belong to?	what 
+chef	who is the chief of entity?	who is the leader of entity?	who
+gouverneur	who is the governor of entity?	who governs entity?	who
+sel			
+auteurs	who is the author of entity?	who wrote entity?	who
+autoritéUnitaire	what is the authority unit of entity?	which unit belongs to entity?	what
+palmarèsInternational	which competition does entity win?	what did entity win?	what 
+exploitant	who is the developer of entity?	who developed entity?	who
+genre	what is the genre of entity?	which genre does entity belong to?	what 
+statut	where does entity work?	what is the position of entity?	what 
+parlement	what is the parlement of entity?	which parlement does entity belong to?	what 
+sexe	what is the gender of entity?	what is the sex of entity?	what 
+équipeNfl	what is the team of entity?	which team does entity belong to?	what 
+villeDepart	what is the starting city of entity?	wher does entity start?	what 
+début	what is the debut of entity?	what is the starting of entity?	what 
+paysDeDécès	where did entity die?	what is the death place of entity?	what 
+villesPrincipales	what is the major city of entity?	what is  the most important city of entity?	what 
+destination	what is the destination of entity?	where does entity end?	what 
+coupe	what is the coupe that entity wins?	which competition does entity win?	what 
+clubJunior	what is the junior club of entity?	which junior club does entity belong to?	what 
+lanceur	who is the advancer of entity?	who advanced entity?	what 
+typeSubdivision	what is the subdivision type of entity ?	which subdivision does entity belong to?	what 
+mandant	who is the appointer of entity?	who appointed entity?	what 
+famille	which family does entity belong to?	what does entity belogn to?	what 
+lieuparutionOrig	what is the initial place of issue of entity?	where is entity initially issued?	where
+champion	who won the championship of entity?	who was the champion of entity?	who
+capitaine	who is the captain of entity?	who leads entity?	who
+activités	which category does the activity of entity belong to?	what does the activity of entity belong to?	what 
+groupeParlementaire	which parlement does entity belong to?	what is the parlement of entity?	what 
+hiérarchie	what is the hierarchy of entity?	which hierarchy does entity belongs to?	what 
+créateur	who is the founder of entity?	who founded entity?	what 
+porteDrapeau	who is the flag bearer of entity?	who carries the flag of entity?	who
+mission	what is the mission of entity?	which mission does entity do?	what 
+partiSuccesseur	who is elected as the party successor by entity?	who is the party successor appointed by entity?	what 
+vainqueur	who is the winner of entity?	who wons entity?	who
+villeArrivee	what is the arrival city of entity?	where does entity end?	what 
+villes	what does entity belong to?	which city does entity belong to?	what 
+organisation	who is the organization of entity?	who organized entity?	what
+département	which department does entity belong to?	what is the parlement of entity?	what 
+franchit	where is the duty-free store of entity located?	what is the location of the duty-free store of entity?	where
+père	who is the father of entity?	who is the male parent of entity?	who
+dr	where is entity distributed?	what is the distribution place of entity?	
+deuxième	who won the second place of entity?	who is the second prize of entity?	who
+territoire	which territory does entity belong to?	where is entity?	what 
+chaîne	which channel is entity on?	which channel can entity be found?	what 
+modèlePrécédent	which model is before entity?	what is before entity?	what 
+usine	what is the factory of entity?	which factory does entity belong to?	what 
+sociétéSœur	what is the rival firm of entity?	what is the competing company of entity?	what 
+massif	which massif does entity belong to?	what is the massif that entity belongs to?	what 
+modèleSuivant	what is the next model of entity?	what comes next after entity?	what 
+couleurs	what is the colour of entity?	which colour does entitiy have?	what 
+cible	who is the target of entity?	who is entity targeted at?	who
+nomSubdivisionMère	what is the name of the subdivision origin of entity?	which subdivision does entity belong to?	what 
+découvreur	who discovers entity?	who is the finder of entity?	who
+fratrie	who is the sibling of entity?		who
+marque	what does the symbol of entity belong to?	which symbol does entity belong to?	what 
+voirAussi	what is related to entity?		what 
+sport	which sport is invented by entity?	what is invented by entity?	what 
+lang	which language is used by entity?	what is the language used by entity?	what 
+allégeance	what does the allegiance of entity belong to?	who does entity work for?	what 
+chantier	where is entity built?	what is responsible for the building of entity?	what 
+série			
+développeur	who is the developer of entity?	who developed entity?	who 
+dynastie	which dynasty does entity belong to?	where doesn entity live?	what 
+concepteur	who is the designer of entity?	who designed entity?	who
+saisonPrécédente	what is the previous series of entity?	what comes before entity?	what 
+œuvre	whose work does entity belong to?	where does entity show up?	what 
+saisonSuivante	what is the next episode of entity?	what comes after entity?	what 
+vicePrésident	who is the vice president of entity?		who
+franchise	who grants the entity?	who has the franchise of entity?	what 
+chaine	which channel is entity on?	which channel can entity be found?	what 
+origineNom	what is the original name of entity?	where does the name of entity come from?	what 
+artiste	which artist created entity?	who created entity?	who
+formation	what is the formation of entity?		what 
+armateur	who is the owner of entity?	who owns entity?	who
+précédéPar	what is before entity?	what is the last version of entity?	what
+présentation	who presented entity?	who is the producer of entity?	who 
+fabricant	who produced entity?	who is the producer of entity?	who
+leader	who is the leader of entity?	who leads entity?	who
+partiPrédécesseur	who is elected as the party predecessor by entity?	who is the party successor appointed by entity?	what 
+réalisateur	who is the director of entity?	who directed entity?	who
+titreDeLaSérie	what is the series title of entity?	which title does entity belong to?	what 
+mère	who is the mother of entity?	who is the female parent of entity?	who
+plusGrandeVille	what is the biggest city of entity?	which city is the biggest one of entity?	what 
+traducteur	who is the translator of entity?	who translated entity?	who
+versionPrécédente	what is the previous version of entity?	what is before entity?	what 
+drapeauLien	what is the symbol of entity?	which symbol does entity belong to?	what 
+compagnie	which company does entity  belong to?	what is the company that entity belong to?	what 
+fusionnéDans	what is entity emerged into?	who is entity combined with?	what 
+suiviPar	what is the next season of entity?	what comes after entity?	what 
+organisateur	who is the organization of entity?	who organized entity?	who
+résidenceOfficielle	what is the official residence of entity like?	what does the official residence of entity look like?	what 
+localité	where is entity?	what is the location of entity?	what 
+stationSuivante	what is the next station of entity?	what is the next stop of entity?	what 
+leaderc	who is the leader of entity?	who leads entity?	who
+héritier	who is the heir of entity?	who is the next entity?	who
+featuring	who is the creator of entity?	who created entity?	what 

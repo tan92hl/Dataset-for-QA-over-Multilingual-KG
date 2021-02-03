@@ -1,0 +1,198 @@
+location	Où est l’emplacement du entity	Savez-vous où se trouve le entity	where
+type	Quel est le type de entity	Savez-vous quel est le type de entity	what
+title	Où est le titre de entity	Savez-vous où est le titre de entity	where
+birthPlace	Où est le lieu de naissance de entity	Savez-vous où est le lieu de naissance de entity	where
+subdivisionName	Quel est le nom de la division administrative de entity	Savez-vous quel est le nom de la circonscription administrative de entity	what
+predecessor	Qui est le prédécesseurs de entity	Savez-vous qui est le prédécesseur de entity	who
+successor	Qui est l’héritier de entity	Savez-vous qui est l’héritier de entity	who
+region	Où est la région de entity	Savez-vous où se trouve la région de entity	where
+caption	Quel est le titre de entity	Savez-vous quel est le titre de entity	what
+before	Qui était le entity avant	Savez-vous qui était le entity avant	who
+city	Où est la ville de entity	Savez-vous où se trouve la ville de entity	where
+country	Dans quel pays se trouve la entity	Savez-vous dans quel pays se trouve la entity	where
+religion	D'où vient la religion de entity	Savez-vous d'où vient la religion de entity	where
+after	Qui sera entity ensuite	Savez-vous qui sera le prochain entity	who
+subdivisionType	Quel est le niveau de gestion à entity	Savez-vous quel est le niveau de gestion de entity	what
+spouse	Qui est l'épouse de entity	Savez-vous qui est l'épouse de entity	who
+timezone	Quel est le fuseau horaire utilisé par entity	Savez-vous quel fuseau horaire utilise entity	what
+language	Quelle est la langue utilisée dans entity	Savez-vous quelle langue est utilisée dans entity	what
+capital	Où est la capitale de entity	Savez-vous où se trouve la capitale de entity	where
+owner	Qui est le propriétaire de entity	Savez-vous qui est le propriétaire de entity	who
+founder	Qui est le fondateur du entity	Savez-vous qui est le fondateur du entity	who
+genre	Quel est le type de entity	Savez-vous quel type de entity	what
+occupation	Quelle est la profession de entity	Savez-vous ce qu'est le métier de entity	what
+leader	Qui est le leader de la entity	Savez-vous qui est le leader de la entity	who
+party	À quel parti appartient entity	Savez-vous à quel parti appartient entity	what
+state	Dans quel état se trouve entity	Savez-vous dans quel état se trouve entity	where
+deathPlace	Où est morte entity	Savez-vous où entity est mort	where
+almaMater	Où est l'Alma Mater de entity	Savez-vous où est l'alma mater de entity	where
+province	Où est la province de la entity	Savez-vous où se trouve la province de la entity	where
+leaderName	Qui est le leader de la entity	Savez-vous qui est le chef de la entity	who
+leaderTitle	Qui est le chef du entity	Savez-vous qui est le chef du entity	who
+office	Quelles sont les positions importantes de entity	Savez-vous quelles sont les positions importantes qu'occupe entity	what
+president	Qui est le président de entity	Savez-vous qui est le président de entity	who
+nationality	Quelle est la nationalité de entity	Savez-vous quelle est la nationalité de entity	what
+father	Qui est le père de entity	Savez-vous qui est le père de entity	who
+position	Quelle est la profession de entity	Savez-vous quelle est la profession de entity?	what
+headquarters	Où est le siège du entity	Savez-vous où se trouve le siège du entity	where
+products	Quels sont les produits de entity	Savez-vous ce qu'est le produit entity	what
+imageCaption			
+industry	Quelle est l'industrie de entity	Savez-vous à quoi appartient entity	what
+cityofbirth	Où est le berceau de la ville de entity	Savez-vous où est le berceau de la ville de entity	where
+seat	Où se trouve le centre administratif de entity	Savez-vous où se trouve le centre administratif de entity	where
+timezoneDst	Quel fuseau horaire utilise entity	Savez-vous quel fuseau horaire utilise entity	what
+knownFor	Quelle est l'œuvre célèbre de entity	Savez-vous quelle est l'œuvre célèbre de entity	what
+eventEnd	Quel est l'événement final de la entity	Savez-vous quel est l'événement final de la entity	what
+governmentType	Quel est le modèle d'organisation de la gestion municipale de la entity	Savez-vous quel est le modèle d'organisation de la gestion municipale de la entity bavaroise?	what
+namedAfter	D'où vient le nom de entity	Savez-vous d'où vient le nom de entity	where
+placeOfBirth	De quelle époque est venu le entity	Savez-vous de quelle époque est venu le entity	when
+parent	D'où viennent entity	Savez-vous d'où proviennent entity	where
+league	Quelle est la ligue dans laquelle entity jouera	Savez-vous dans quelle ligue entity jouera	what
+territory	Quelle est la zone couverte par le entity	Connaissez-vous la zone couverte par le entity	where
+timezone1Dst	Quel est le fuseau horaire de entity	Savez-vous quel fuseau horaire est à entity	what
+arrondissement	Quel est le district administratif de entity	Savez-vous ce qu'est le quartier de entity?	What
+operator	L'opérateur de entity est-il tail?	Savez-vous où se trouve l'opérateur de entity？	Who
+house	Quelle est la dynastie à laquelle appartient entity?	Savez-vous ce qu’est la dynastie ?	What
+settlementType	Quel est le règlement Type de entity	Savez-vous quel est le type de règlement dans le entity?	What
+label	Quel est le label de entity	Savez-vous ce qu’est le label de entity?	What
+residence	Où est l'adresse de entity	Savez-vous où se trouve l'adresse de entity	Where
+mother	Qui est la mère de entity 	Savez-vous qui est la mère de entity	Who
+place	Où est la position de la entity	Savez-vous où se déroule la entity?	Where
+eponym	Quel est le mot ancestral de entity	Savez-vous ce qu'est le mot ancestral entity?	What
+author	Qui est l’auteur de entity	Savez-vous qui est l’auteur du entity?	Who
+canton	Où est l’arrondissement de entity	Savez-vous où se trouve l’arrondissement de entity ?	Where
+event	Que s'est-il passé dans entity	Savez-vous ce qui s'est passé dans entity	What
+companyType	Quel est le type d'entreprise de entity	Connaissez-vous le type d'entreprise de entity	What
+related	Qu'est-ce qui est lié à entity	Savez-vous ce qui est lié à entity	What
+chairman	Qui est le président du entity	Savez-vous qui est le président du entity	Who
+ground	Où est l'adresse du entity	Savez-vous où se trouve l'adresse du entity	Where
+commonLanguages	Quelle est la langue commune de le entity	Savez-vous quelle est la langue commune de le entity	What
+origin	Qu est le berceau de entity	Savez-vous où est le berceau de entity?	Where
+currency	Quelle est la monnaie utilisée en entity	Savez-vous quelle monnaie est utilisée en entity	What
+children	Qui sont les enfants du entity	Savez-vous qui sont les enfants du entity	Who
+series	À quelle série appartient la entity	Savez-vous à quelle série appartient la entity	What
+職業	Quelle est la profession de entity	Savez-vous quelle est la profession de entity?	What
+issue	Qui sont les descendants de entity	Savez-vous qui sont les descendants de entity?	Who
+next	Qui est le prochain mandat de entity	Savez-vous qui est le prochain pour entity	Who
+postalCodeType	Quel est le code postal de entity	Savez-vous quel est le code postal de entity	What
+eventStart	Quand le entity a-t-il été établi	Savez-vous quand le entity en exil a été établi	When
+legislature	Qu'est-ce que le entity 	Savez-vous ce qu'est la entity 	What
+succession	Quelle est la succession de entity	Savez-vous ce qu'est la succession de entity	What
+titleLeader	Qui est le chef de la entity	Savez-vous qui est le chef de la entity	Who
+battles	Quelle est la bataille de entity	Savez-vous ce qu'est la bataille de entity	What
+developer	Qui est le développeur de entity	Savez-vous qui est le développeur de entity	Who
+民族	À quel groupe ethnique appartient entity?	Savez-vous à quelle ethnie appartient entity?	What
+awards	Quels sont les prix remportés par entity	Savez-vous quels prix entity a remporté	What
+precededBy	Quel est le dernier travail de entity	Savez-vous quel a été le dernier travail de entity?	What
+currentclub	Quel est le club auquel appartient actuellement entity	Savez-vous à quel club appartient actuellement entity	What
+manager	Qui est le manager de entity pour l’automne 2016-2017 ?	Savez-vous qui est le manager de entity pour l’automne 2016-2017 ?	Who
+source	Qui est la source de l’information du entity?	Savez-vous d’où vient le entity ?	Who
+leaderParty	Quelle est la fête de entity ?	Savez-vous ce qu’est la fête de tail ?	What
+sport	Quel est le sport de entity ?	Savez-vous ce que entity fait ?	What
+name	Quelle est la forme traditionnelle de la entity	Savez-vous quelle est la forme traditionnelle de la entity?	What
+format	Quel est le format du programme de entity	Savez-vous quel est le format du programme de entity?	What
+最大城市名稱	Quelle est la plus grande ville de la entity	Savez-vous quelle est la plus grande ville de la entity	What
+keyPeople	Qui est la figure clé de entity	Savez-vous qui est la figure clé de entity	Who
+languages	Quelle langue utilise la entity	Savez-vous quelle langue les entity utilisent	What
+seats1Title	Qui est le chef du entity	Savez-vous qui est le chef du entity	Who
+deputy	Qui est l'agent de entity	Savez-vous qui est l'agent de entity	Who
+branch	Quelle est la branche de entity	Savez-vous à quelle branche appartient entity?	What
+ideology	Quelle est l'idéologie du entity	Savez-vous quelle est l'idéologie du entity	What
+status	Quel est le statut de la entity	Connaissez-vous le statut de la entity?	What
+貨幣單位	Quelle est l'unité monétaire de la entity	Savez-vous quelle est l'unité monétaire de la entity	What
+era	Quelle est l'ère de la entity	Savez-vous quelle est  l'ère de entity?	What
+partof	Ce qui s'est passé à l'époque de entity	Savez-vous ce qui s'est passé pendant la entity	What
+district	Où se trouve la zone où se trouve le entity	Savez-vous où se trouve la zone de le entity?	Where
+allegiance	À qui entity est fidèle	Savez-vous à qui entity est fidèle	who
+locale	Où appartient entity	Savez-vous où appartient la station Christopher Street-Sheridan Square	where
+配偶	Qui est l'épouse de entity	Savez-vous qui est l'épouse de entity	who
+order	Quelle est l'organisation dirigée par entity	Savez-vous ce qu'est l'agence dirigée par entity	what
+nationalteam	Quelle est l'équipe nationale de entity	Savez-vous dans quelle équipe nationale appartient entity	what
+commander	Qui sont les généraux participant à la entity	Savez-vous qui sont les généraux impliqués dans la entity	who
+director	Qui est le mentor de entity	Savez-vous qui est le mentor du entity	who
+field	À quel domaine appartient entity	Savez-vous à quel domaine appartient entity	what
+南	Quelles sont les eaux sud de entity	Savez-vous quelles sont les eaux du sud de entity	what
+stadium	Quel est le stade qui a accueilli les entity	Savez-vous quel stade accueille les entity	what
+consort	Qui est le partenaire de entity	Savez-vous qui est le partenaire de entity	who
+monarch	Qui est le monarque dont le chef est entity	Savez-vous qui est le chef de entity	who
+last	Quel est le prochain film de entity	Savez-vous quel est le prochain film de entity	what
+國家首都名稱	Quel est le nom de la capitale nationale du entity	Connaissez-vous le nom de la capitale nationale du entity	what
+team	Quelle est l'équipe pour les entity	Savez-vous ce qu'est l'équipe de la entity	what
+manufacturer	Quel est le fabricant de entity	Savez-vous ce qu'est le fabricant de entity	what
+appointer	Qui est la personne nommée par le entity	Savez-vous qui a nommé le entity	who
+fam	Quelle est la famille de langues de entity	Connaissez-vous la famille de langues de entity	what
+locationCity	Où est l'emplacement de entity	Savez-vous où se trouve la entity	where
+placeOfDeath	Où est le lieu de mort de entity	Savez-vous où entity est mort	where
+语言	Quelle est la langue du entity	Savez-vous quelle est la langue de entity	what
+result	Qui est le vainqueur de la entity	Savez-vous qui est le vainqueur de la entity	who
+family	Quelle est la famille de entity	Savez-vous à quelle famille appartient entity	what
+primeminister	Qui est le premier ministre de entity	Savez-vous qui est le premier ministre de entity	who
+incumbent	entity Qui sont les titulaires actuels	Savez-vous qui sont les titulaires actuels de la entity	who
+官方文字	Quel est le texte officiel de la entity	Savez-vous quel est le texte officiel de la entity	what
+官方語言	Quelle est la langue officielle de la entity	Savez-vous quelle est la langue officielle de la entity	what
+語言	Quelle langue utilise entity	Savez-vous quelle langue entity utilise	what
+parents	Qui sont les parents de entity	Savez-vous qui sont les parents de entity	who
+ethnicity	Quelle est la course de entity	Savez-vous quelle est la race de entity	what
+國際域名縮寫	Quelle est l'abréviation du nom de domaine international entity	Savez-vous quelle est l'abréviation du nom de domaine international entity	what
+constituencyWestminster	Où est la circonscription électorale de la entity	Savez-vous où se trouve la circonscription de la entity	where
+states	Où est la entity	Savez-vous où la entity est parlée	where
+royalHouse	Quelle est la famille royale de entity	Savez-vous ce que la famille royale appartenait à entity	what
+政治體制	Quel est le système politique de la entity	Savez-vous quel est le système politique de la entity	what
+publisher	Qui est l'éditeur de entity	Savez-vous qui est l'éditeur de entity	who
+countryofbirth	Quelle est la patrie de entity	Savez-vous quelle est la patrie de entity	where
+influences	Qui a influencé entity	Savez-vous qui a influencé entity	who
+burialPlace	Où est le lieu de sépulture de entity	Savez-vous où se trouve le lieu de sépulture de entity	where
+nickname	Quel est le surnom de entity	Savez-vous quel est le surnom de entity	what
+prev	Qui était le dernier mandat de entity	Savez-vous qui était le dernier de entity	who
+clubs	Quel est le club dans lequel entity travaille	Savez-vous quel était le club dans lequel entity travaillait	what
+西	C'est quoi, à l'ouest de entity	Tu sais ce qu'il y a dans l'ouest de entity	what
+countryAdminDivisions	Où se trouve la circonscription administrative de entity	Savez-vous où se trouve le district administratif de entity	where
+producer	Qui est le producteur de entity	Connaissez-vous le producteur de entity	who
+influenced	Qui sont les personnes affectées par entity	Savez-vous qui a été touché par entity	who
+youthclubs	Quel est le club de jeunes auquel appartient entity	Connaissez-vous le club de jeunes auquel appartient entity	what
+combatant	Quels sont les pays de entity participante	Savez-vous quels sont les pays participants	what
+start	Où est la gare de départ de la entity	Savez-vous où se trouve la gare de départ de la entity	where
+東	Quelles sont les mers orientales de entity	Savez-vous ce que sont les eaux orientales de entity	what
+東北	Qu'est-ce que le nord-est de la entity	Savez-vous ce qu'est le nord-est de la entity	What
+network	Qu'est-ce qu'Internet à l'ère de la entity	Savez-vous ce qu'est Internet à l'ère de la entity	What
+seats3Title			
+birthplace	Où est le berceau de la entity	Savez-vous d'où est née la entity	Where
+上一節目	Quel est le dernier spectacle de entity	Savez-vous quel était le dernier spectacle de entity	What
+largestCity	Quelle est la plus grande ville du entity	Savez-vous quelle est la plus grande ville du entity	What
+seats2Title			
+下一節目	Quel est le prochain spectacle de la entity	Savez-vous quel sera le prochain spectacle de la entity ?	What
+artist	Qui est l'artiste de la entity	Savez-vous qui est l'artiste de la entity？	Who
+placeOfBurial	Où se trouve le tombeau de entity	Savez-vous où se trouve la tombe de entity ?	Where
+designer	Qui est le concepteur de entity	Savez-vous qui est le concepteur de entity	Who
+creator	Qui est le créateur de entity	Savez-vous qui est le créateur de entity	Who
+instrument	Quel instrument de musique entity a-t-il utilisé	Savez-vous quel instrument de musique entity a utilisé	What
+starring	Qui est l'acteur de entity	Savez-vous qui est l'acteur de entity?	Who
+locationCountry	Quel est le pays du entity	Savez-vous quel est le pays du entity	What
+affiliation	Quelle est l'affiliation du entity	Savez-vous quelle est l'affiliation du entity	What
+affiliations	Quels sont les affiliés de entity	Savez-vous quels sont les affiliés de entity	What
+北	Quelle est la partie nord de la entity	Savez-vous ce qu'est le nord de la entity	What
+nation	Quel est le pays de la entity	Savez-vous ce qu'est le pays de la entity	What
+writer	Qui est l'auteur de entity?	Savez-vous qui est l'auteur de entity	Who
+architect	Qui est l'architecte de la entity	Savez-vous qui est l'architecte de la entity	Who
+garrison	Où est la garnison de la entity?	Savez-vous où se trouve la garnison de la entity?	Where
+教育程度	Quel est le niveau d'éducation de entity	Savez-vous quel est le niveau d’éducation de entity?	What
+college	C’est quoi l’université de entity?	C’est quoi l’université de entity ?	What
+rank	Quelle est le rang de entity ?	Savez-vous quelle est le rang de entity	What
+subdivisionRanks	Quelle est la subdivisionRangs de entity	Savez-vous quels sont les classements de subdivision de la entity	What
+出生地	Où était le lieu de naissance de entity	Savez-vous où est né entity ?	Where
+西北	Qu’y a-t-il au nord-ouest de la entity ?	Savez-vous où se trouve le nord-ouest de la entity?	Where
+areas	Où était la entity	Savez-vous où se trouvait la entity	Where
+coach	Qui est l’entraîneur de entity ?	Savez-vous qui est l’entraîneur de entity ?	Who
+education	Quelle est l’éducation de entity?	Savez-vous ce qu’est l’éducation de entity?	What
+constituency	Où est la circonscription de entity	Savez-vous où se trouve la circonscription de entity?	Where
+profession	Quelle est la spécialité de entity?	Savez-vous ce qu’est la spécialité de entity	What
+父親	Qui est le père de la entity ?	Savez-vous qui est le père de la entity	Who
+discoverySite	Où est l'adresse de découverte de la entity	Savez-vous où se trouve l'adresse de entity?	Where
+mapCaption	Qu'est-ce que la description de la carte du entity	Savez-vous quelle est la description de la carte du entity	What
+shireCounty	Quel est le comté de entity	Savez-vous ce qu'est le comté de entity	What
+西南	Quel est le sud-ouest de la province du entity	Savez-vous ce qu'est le sud-ouest de la entity	What
+tenants	Qui sont les locataires du entity	Savez-vous qui sont les locataires du entity ?	Who
+archipelago	La mer autour de la entity est la entity	Savez-vous ce qu'est la mer autour de la entity	What
+honorificSuffix	Quel est le suffixe honorifique de entity	Savez-vous quel est le suffixe honorifique de entity	What
+draftTeam	Quelle est l'équipe de rédaction de entity	Savez-vous ce qu'est l'équipe de rédaction de entity	What
+body	Quel est le principal organe des chefs de entity	Savez-vous quel est le corps principal des chefs de entity	What

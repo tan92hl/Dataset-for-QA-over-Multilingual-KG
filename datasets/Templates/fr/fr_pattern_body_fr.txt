@@ -1,0 +1,200 @@
+éditeur	Qui est l'éditeur entity?	Savez-vous qui est l'éditeur de entity	who
+auteur	Qui est l'auteur de entity	Savez-vous qui est l'auteur de entity	who
+lieu	Où est le lieu de entity ?	Savez-vous où est le lieu de entity ?	where
+prédécesseur	Qui était le prédécesseur de entity ?	Vous savez qui était le prédécesseur de entity	who
+subdivision	En quoi le entity est-il divisé ?	Savez-vous ce que le entity est divisé en?	what
+siège	Où est le siège du entity?	Savez-vous où se trouve le siège du entity?	where
+avant	C’était quoi entity avant ?	Tu sais ce que j’étais avant entity ?	when
+successeur	Qui est le successeur de entity?	Savez-vous qui est le successeur de entity?	who
+région	Quelle est la région de entity	Savez-vous quelle est la région de entity	what
+type	Quel est le type de entity?	Tu sais quel genre de entity est ?	what
+nom	Comment s’appelle entity ?	Savez-vous quel est le nom de entity ?	what
+après	Qui est derrière le entity je	Savez-vous ce que mon entity était après?	when
+ville	Où est entity ?	Savez-vous où est entity ?	where
+titre	Quel est le titre de entity	Savez-vous quel est le titre de entity?	what
+lieuDeNaissance	Où est né entity?	Savez-vous où entity est né ?	where
+liste	Qu’est-ce entity sur la liste?	Savez-vous ce entity est sur la liste ?	what
+site	Quel est le site web de la entity?	Savez-vous ce qu’est le site de entity?	what
+fonction	Quelle est la fonction de entity ?	Savez-vous quelle est la fonction de entity?	what
+président	Qui est le président entity?	Savez-vous qui est le président entity ?	who
+propriétaire	Qui est le proprietaire du entity ?	Savez-vous qui est le patron du entity ?	who
+langue	Quelle est la langue entity	Savez-vous ce qu'est la langue entity	What
+légende	Qui est la légende des entity	Savez-vous qui est la légende entity	Who
+lieuDeDécès	Où était la mort de entity ?	Savez-vous où entity est morte ?	where
+capitale	Qu’est-ce que torontoise de entity?	Savez-vous de quoi il s’agit à entity?	what
+pays	Quel est le pays de la entity ?	Savez-vous où est l’archidiocèse de entity ?	where
+localisation	Où est le positionnement de entity	Savez-vous où entity est positionnée ?	where
+précédent	Quelle était la page précédente du entity?	Savez-vous quelle était la page précédente du entity	what
+suivant	Qu’est-ce qu’il y a après à entity ?	Savez-vous quelle est la page suivante à entity ?	what
+nomDeDivision	De quoi entity s’est-elle débarrassée ?	Savez-vous pourquoi entity a été dé-nommée ?	what
+périodique	Quels sont les journaux à entity	Savez-vous ce qu'est le périodique de entity	What
+commune	Où est la commune de la entity	Savez-vous où se trouve le comité de la entity	what
+division	Où est le départ ement à entity ?	Savez-vous où se trouve le département à entity ?	where
+origine	Quelle est l'origine du entity	Savez-vous d’où vient le entity de origine?	what
+préface	Qui est la préface du entity	Savez-vous qui est la préface du entity	what
+équipementSportif	Où sont les équipements sportifs entity ?	Savez-vous où se trouve l’équipement sportif entity?	where
+lienSubdivision	Quelle est la subdivision de entity	Savez-vous quelle est la subdivision de entity	What
+province	Où est la province de entity?	Savez-vous où se trouve la entity	where
+club	Quel est le club de entity?	Savez-vous quel club est entity?	what
+chefLieu	Où est le chef de canton de entity ?	Savez-vous où se trouve le chef de entity?	where
+tenant	Qui sont les tenants de la entity	Savez-vous qui sont les locataires de la entity?	Who
+premTitulaire	Qui est titulaire du entity	Savez-vous qui est le titulaire du entity	who
+gouvernement	Quel est le entity	Savez-vous ce qu’est le entity	what
+affiliation	Quelle est l'affiliation de la entity	Savez-vous quelle est l'affiliation de la entity	what
+ouest	Quel est l'ouest de entity	Savez-vous ce qu'est l'ouest de entity	What
+état	Où est l’état de entity ?	Savez-vous où est entity ?	where
+palmarèsNational	Qui est le palmarès National du entity	Savez-vous qui est le Palmarès National du entity?	what
+stade	Qui est le stade de entity	Savez-vous qui est le stade de entity	what
+nomCapitale	Quelle est la capitale initiale de la entity	Savez-vous quelle est la première lettre de la entity?	what
+constructeur	Qui est le fabricant du entity?	Savez-vous qui est le constructeur du entity ?	who
+est	Qui est entity ?	Savez-vous qui est entity ?	who
+quartier	Quel est le quartier sur entity	Savez-vous ce qu'est le quartier sur entity	where
+sud	Qu’y a-t-il au sud de entity ?	Savez-vous ce qu’il y a dans le sud de entity ?	what
+fondateur	Quel est le fondateur de entity?	Savez-vous ce que sont les fondateurs du entity ?	what
+nordEst	Où est le nord-est de entity ?	Savez-vous ce qu’est le nord-est de entity ?	where
+premierMinistre	Où est le Premier ministre de entity ?	Savez-vous qui est le premier ministre de entity?	who
+nord	Quel est le nord à entity	Savez-vous ce qu'est le nord de entity	where
+embouchureLocalisation	Où est l’embouchure du entity ?	Savez-vous où se trouve l’embouchure du entity ?	where
+nordOuest	Où est le nord-ouest de entity ?	Savez-vous où se trouve le nord-ouest de entity ?	where
+championnatActuel	Qui est l’actuel champion de la entity ?	Savez-vous qui est l’actuel champion de la tail ?	who
+situation	Où est l'emplacement du entity	Savez-vous où se trouve le entity?	Where
+parti	Quel est le parti à la entity?	Savez-vous ce qu’est le parti de la entity	what
+lienRégion	Quelle est la zone de raccordement des entity ?	Savez-vous où les entity sont reliées ?	where
+sudEst	Quel est le sud de entity	Savez-vous ce qu'est le sud de entity	where
+précédente	Qu’est-ce que la couronne estonienne de entity	Savez-vous ce qu’est la couronne entity ?	what
+sudOuest	Quel est le sud-ouest de entity	Savez-vous ce qu'est le sud-ouest de entity?	where
+équipe	Quelle est l’équipe de la entity?	Savez-vous ce que l’équipe est dans la entity?	what
+monarque	Qui est le monarque de entity?	Savez-vous qui est le monarque de entity?	who
+bassinCollecteur	Quel est le bassin de entity	Savez-vous ce qu'est le bassin de entity?	what
+sépulture	À qui appartient la sépulture de entity	Savez-vous à qui appartenait la sépulture de entity	where
+plusTitré	Quel est le titre le plus élevé de la entity	Savez-vous quel est le titre le plus élevé de la entity	
+entraîneur	Qui est l’entraîneur des entity	Savez-vous qui est l’entraîneur des entity ?	who
+nationalité	Quelle est la nationalité de entity	Savez-vous quelle est la nationalité de entity	what
+valeur	Quelle est la valeur de la entity	Savez-vous quelle est la valeur de la entity?	What
+langues	Quelle est la langue de la entity?	Savez-vous quelle est la langue de la entity?	what
+législature	Qu’est-ce que la législature de entity ?	Savez-vous ce qu’est la législature de entity?	what
+conjoint	Qui est le conjoint de entity ?	Savez-vous qui est le conjoint de entity ?	who
+commandant	Qui était le commandant de la entity	Savez-vous qui était le commandant de la entity ?	who
+titulaireActuel	Qui est l’empereur actuel du entity?	Savez-vous qui est l’empereur du entity	who
+portD'attache	Quel est le port d'attache de entity	Savez-vous ce qu'est le port d'attache de entity	where
+comté	Qu'est-ce que le comté à entity	Savez-vous où est le comté de entity ?	where
+commanditaire	Qui est le commanditaire de entity	Savez-vous qui est le commanditaire de entity	who
+collection			
+éponyme	Qui est l'éponyme de entity	Savez-vous qui est l'éponyme de entity	who
+pointCulminant	Quel est le point Culminant de la entity ?	Savez-vous où sont les point Culminant de la entity ?	where
+régime	Quelles sont les régime du entity	Savez-vous à régime est le entity	what
+hiérarchie+_	Quelle est la hiérarchie du entity	Savez-vous quelle est la hiérarchie du entity	what
+combattants	Quels sont les combattants de la entity	Savez-vous ce que sont les combattants de la entity	where
+leadera	Qui est le leadera du entity	Savez-vous qui est le leadera du entity?	who
+ligue	Quelle est la ligue des entity	Savez-vous ce qu’est la entity ?	what
+catégorie	Quelle est la catégorie en entity ?	Savez-vous quelle est la catégorie en entity ?	what
+subdivisionsTerritoriales	Qu’est-ce que la division territoriale de la entity?	Savez-vous ce qu’est la division territoriale de la entity ?	where
+paysDeNaissance	Où est le pays de naissance de entity	Savez-vous où est née entity	where
+nomDeCode	Quel est le nom de code pour entity?	Connaissez-vous le nom de code de entity?	what
+siège(ville)_	Où est le siège de entity	Savez-vous où est le siège de entity	where
+coalition	Qu'est-ce que la coalition de entity	Savez-vous ce qu'est la coalition de entity	
+finaliste	Qui est le finaliste de la entity 1	Savez-vous qui est le finaliste de la entity	who
+district	Quel est le district de la entity	Savez-vous quel est le entity ?	where
+titreLeadera	Quel était le titre de entity	Savez-vous quel est le titre de entity	what
+suivante	Qui est la suivante de entity	Savez-vous qui est la suivante de entity	what
+adresse	Quelle est l’adresse de entity	Savez-vous où se trouve l’adresse de la entity	where
+lieuOrigine	Quelle est l’adresse d’origine de entity ?	Savez-vous où se trouve l’adresse d’origine de entity ?	where
+lieuDeVénération	Où est le site religieux de entity?	Savez-vous où se trouve le site religieux de entity?	where
+subdivision1Type	Qu’est-ce que subdivision1Type dans le entity ?	Savez-vous ce qu’est subdivision1Type au entity?	what
+intituléSubdivision	Où est l’IntituléSubdivision du entity ?	Savez-vous où se trouve l’intitul du entity ?	where
+chef	Qui est le chef du entity pour le tail?	Savez-vous qui est le chef du entity ?	who
+gouverneur	Qui est le gouverneur de entity ?	Savez-vous qui est le gouverneur de entity	who
+sel	Quel est le sel de entity	Savez-vous ce qu'est le sel de entity	what
+auteurs	Qui sont les auteurs en entity?	Savez-vous qui sont les auteurs entity ?	who
+autoritéUnitaire	Où est l’autorit de entity ?	Savez-vous où est l’autorit de entity ?	where
+palmarèsInternational	Qu'est-ce que le entity?	Savez-vous ce qu'est le entity	what
+exploitant	Qui est l'exploitant de entity	Savez-vous qui est l'exploitant du entity	who
+genre	Quel est le genre du entity	Savez-vous quel est le entity	what
+statut	Quel est le statut de entity?	Savez-vous quel est le statut de entity?	what
+parlement	Qu'est-ce que le entity  de la tail 	Savez-vous ce qu'est le entity de la tail  	what
+sexe	Quel est le sexe de entity?	Savez-vous quel est le sexe de entity?	what
+équipeNfl	Quelle est l'équipe nationale de entity	Savez-vous ce qu'est l’équipe nationale de entity	what
+villeDepart	Où était la ville de départ du entity	Savez-vous où se trouve la ville de départ de la entity	where
+début	Quel est le début de entity	Savez-vous quel est le début de entity	when
+paysDeDécès	Où est le pays DeDécès de entity	Savez-vous où est le Pays De Décès de entity	where
+villesPrincipales	Où sont les villesPrincipales à entity?	Savez-vous où se trouvent lesvillesPrincipales de entity?	where
+destination	Où est la destination du entity	Savez-vous où se trouve la destination du entity?	where
+coupe	Où est le coupé du entity	Savez-vous où se trouve le coupé du entity	where
+clubJunior	Qu'est-ce que le clubJunior  de entity	Savez-vous ce qu'est le clubJunior de entity	what
+lanceur	Quel est le lanceur de entity	Savez-vous ce qu'est le lanceur de entity	what
+typeSubdivision	Où est la subdivision de entity?	Savez-vous où est le type de subdivision entity ?	where
+mandant	Qui est le mandant de entity	Savez-vous qui est le mandant de entity	who
+famille	Qu'est-ce que la entity?	Savez-vous ce qu'est la famille entity?	what
+lieuparutionOrig	Où est la lieuparutionOrig de entity	Savez-vous où se trouve la lieuparutionOrig de entity	where
+champion	Qui est le champion du entity	Savez-vous qui est le champion du entity	who
+capitaine	Qui est le capitaine de entity	Savez-vous qui est le capitaine de entity	who
+activités	Quelles sont les activités de entity	Savez-vous quelles sont les activités de entity	what
+groupeParlementaire	Qu'est-ce que le groupeParlementaire de entity	Savez-vous ce qu'est le groupeParlementaire de entity	what
+hiérarchie	Qui est la hiérarchie du entity	Savez-vous qui est l’hiérarchie du entity	who
+créateur	Qui est le créateur du entity	Savez-vous qui est le créateur du entity	who
+porteDrapeau	Qui est le porte-drapeau de entity	Savez-vous qui est le porte-drapeau de la entity	who
+mission	Quelle est la mission de entity	Savez-vous quelle est la mission de entity	what
+partiSuccesseur	Qui est le partiSuccesseur des entity	Savez-vous qui était le partiSuccesseur des entity	who
+vainqueur	Qui fut le vainqueur du entity	Savez-vous qui fut le vainqueur du entity	who
+villeArrivee	Qu'est-ce que villeArrivee à entity	Savez-vous où se trouve la villeArrivee à entity	where
+villes	Où sont les villes de entity	Savez-vous où se trouvent les villes de entity?	where
+organisation	Qui est l'organisation de entity?	Savez-vous qui est l'organisation du entity	who
+département	Où est le département de entity?	Savez-vous où se trouve le département de entity?	where
+franchit	Où est la franchise du entity	Savez-vous où est la franchise du entity	where
+père	Qui est le père de entity?	Savez-vous qui est le père de entity?	who
+dr	Qu'est-ce que Dr à entity	Savez-vous ce qu'est dr à entity	What
+deuxième	Qui est le deuxième du championnat de entity	Savez-vous qui est le deuxième du championnat de entity	who
+territoire	Où est le territoire de le entity	Savez-vous où se trouve le territoire de le entity?	where
+chaîne	Quelle est la chaîne du entity?	Savez-vous qui est la chaîne du entity?	what
+modèlePrécédent	Quel est le modèle Précédent de entity ?	Savez-vous ce qu’est le modèle Précédent de entity?	what
+usine	Où est l'usine de entity？	Savez-vous où se trouve l'usine de entity	where
+sociétéSœur	Qu'est-ce que la sociétéSœur de entity?	Savez-vous ce qu'est la sociétéSœur de entity?	what
+massif	Où se trouve le massif à entity?	Savez-vous où se trouve le massif de entity?	where
+modèleSuivant	Quel est le modèle suivant de la entity	Savez-vous ce qu'est le modèle suivant de entity?	what
+couleurs	Quelle est la couleur de la entity	Savez-vous quelle est la couleur de la entity	what
+cible	Qui était la cible assassinée par entity	Savez-vous qui Cible a été assassiné par entity	who
+nomSubdivisionMère	Où est nomSubdivisionMère à entity	Savez-vous où est le nomSubdivision Mère à entity?	where
+découvreur	Qui est le découvreur de entity?	Savez-vous qui est le découvreur de entity?	who
+fratrie	Qui est la fratrie de entity?	Savez-vous qui est la fratrie de entity?	who
+marque	Quelle est la marque de entity	Savez-vous ce qu'est la marque de entity	what
+voirAussi	Où est voirAussi du entity	Savez-vous où se trouve le voirAussi du entity	where
+sport	Qu'est-ce que le sport au entity?	Savez-vous ce qu'est le sport dans le entity?	what
+lang	Qu'est-ce que le lang à entity?	Savez-vous ce qu'est la langue à entity?	what
+allégeance	Quelle est l'allégeance de la entity	Savez-vous ce qu'est l'allégeance de entity	what
+chantier	Où est le chantier de entity?	Savez-vous où se trouve le chantier de entity	where
+série	Quelle est la série de entity	Savez-vous quelle est la série de entity	
+développeur	Qu’est-ce que le développeur de entity ?	Savez-vous ce qu’est le développeur de entity ?	what
+dynastie	Qu'est-ce que la dynastie entity?	Savez-vous quand est la dynastie entity?	when
+concepteur	Qui est le concepteur du entity ?	Savez-vous qui est le concepteur du entity	who
+saisonPrécédente	Quelle était la saison précédente de entity	Savez-vous ce qu'est la saison Précédente de entity	what
+œuvre	Qui est l’œuvre de entity ?	Savez-vous ce qu'est l'œuvre de entity	what
+saisonSuivante	Quelle est la prochaine saison de entity	Savez-vous quelle est la prochaine saison de entity?	what
+vicePrésident	Qui est le vice-président de entity	Savez-vous qui est le vice-président de entity?	who
+franchise	Quelle est la franchise de entity	Savez-vous ce qu'est la franchise de entity?	What
+chaine	Quelle est la chaîne de entity	Savez-vous ce qu'est la chaîne de entity	what
+origineNom	Quel est le nom original de entity	Savez-vous quel est le nom original de entity	what
+artiste	Qui est l'artiste de entity	Savez-vous qui est l'artiste du entity	who
+formation	Quelle est la formation de entity	Savez-vous quelle est la formation de entity	what
+armateur	Qui est l'armateur du entity?	Savez-vous qui est l'armateur du entity?	who
+précédéPar	Quel est le précédéPar du entity	Savez-vous ce qu'est le précédéPar du entity	what
+présentation	Qui est la présentation de entity	Savez-vous qui est la présentation de entity	who
+fabricant	Qui est le fabricant de la entity 	Savez-vous qui est le fabricant de la entity	who
+leader	Qui est le leader du entity	Savez-vous qui est le leader du entity	who
+partiPrédécesseur	Qui était le parti précédent aux entity	Savez-vous qui était le parti précédent aux entity	who
+réalisateur	Qui est le réalisateur sur entity	Savez-vous qui est le réalisateur dans entity	who
+titreDeLaSérie			
+mère	Qui était la mère de entity ?	Savez-vous qui est la mère de entity ?	who
+plusGrandeVille	Quelle est la plus grande ville de entity	Savez-vous quelle est la plus grande ville de entity	What
+traducteur	Qu’est-ce que le traducteur du entity ?	Savez-vous ce qu’est le traducteur du entity ?	what
+versionPrécédente	Quelle est la version précédente de entity?	Savez-vous quelle est la version précédente de entity	what
+drapeauLien	Qu’est-ce que drapeau Lien dans entity	Savez-vous ce qu’est le drapeau Lien de entity ?	what
+compagnie	Qu’est-ce que la compagnie de entity ?	Savez-vous quelle est la compagnie de entity?	what
+fusionnéDans			
+suiviPar			
+organisateur	Qui est l’organisateur du entity	Savez-vous qui sont les organisateurs du entity	who
+résidenceOfficielle	Quelle est la résidence officielle du entity	Savez-vous ce qu'est la résidence officielle du entity	where
+localité	Où est la localité de entity	Savez-vous où se trouve la localité de entity	where
+stationSuivante	Où est la station Suivavante à entity	Savez-vous où se trouve la station Suivante de entity	where
+leaderc	Qui est le leader de la entity	Savez-vous qui est le leader de la entity	who
+héritier	Qui est l’héritier de entity ?	Savez-vous qui est l’héritier de entity	who
+featuring			

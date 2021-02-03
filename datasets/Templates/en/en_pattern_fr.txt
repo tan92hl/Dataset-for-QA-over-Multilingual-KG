@@ -1,0 +1,201 @@
+title	Le titre de entity
+before	L’avant de entity
+after	Votre prochain club de entity
+location	L’emplacement de entity
+birthPlace	Lieu de naissance de entity
+predecessor	Prédécesseur de entity
+caption	Explication de entity
+region	La région de entity
+north	Le nord de entity
+subdivisionType	Les types de zonage de entity
+west	L’ouest de entity
+type	Le type de entity
+deathPlace	Le lieu de décès de entity
+east	L’est de entity
+successor	Le successeur de entity
+southwest	le sud-ouest de entity
+southeast	Le sud-est de entity
+shipNamesake	Le nom du navire de entity
+south	Le sud de entity
+seat	Zone couverte par la entity
+country	Pays auquel appartiennent de entity
+northeast	Le nord-est de entity
+owner	Le propriétaire de entity
+northwest	Le nord-ouest de entity
+founder	Le fondateur de entity
+city	Millionnaires de la entity
+name	Le nom de entity
+source	La source de entity
+operator	L’opérateur de entity
+leader	Le chef de entity
+religion	Votre religion en entity
+state	État où se trouve la entity
+event	Événements dans entity
+venue	Lieu de entity
+headquarters	Siège de entity
+next	Le prochain mandat de entity
+imageCaption	Légende de la photo de entity
+postalCodeType	Code postal de entity
+logo	Le logo de entity
+house	La maison de entity
+issue	La question de entity
+honorificSuffix	Suffixe honorifique de entity
+place	Lieu de la Journée mondiale de entity
+namedFor	Nom de entity
+s	Le sud de entity
+legislature	La vie de entity
+stadium	Le stade où s'est déroulée la entity
+namedAfter	Nom de entity
+team	L’équipe de entity
+first	Le premier de entity
+status	Le statut de entity
+blankName	BlankName pour entity
+format	Le design de entity
+eventEnd	L'événement final en entity
+organization	L’organisation de entity
+honorificPrefix	Préfixe honorifique de entity
+blankNameSec	Les noms vierges en entity
+eponym	éponyme de entity
+residence	La résidence du entity
+province	La province de entity
+party	Le parti de entity
+district	Le district de entity
+style	Le style de entity
+almaMater	Alma mater de entity
+proteam	
+chieftown	La ville principale de entity
+family	La famille de entity
+sport	Sports de la entity
+sponsor	responsable de entity
+coach	L’entraîneur de entity
+areaCodeType	Zone de entity
+label	L’étiquette de entity
+countryAdminDivisions	Administration de entity
+source1Location	Le berceau de entity
+appointer	Client de entity
+town	La ville où se trouve entity
+origin	L’origine de entity
+previous	Le dernier mandat du entity
+hqLocationCity	Ville d'origine de entity
+succession	Héritier de entity
+spouse	Époux de entity
+league	La ligue à laquelle appartiennent les entity
+manager	Le gestionnaire de entity
+author	L’auteur de entity
+seats1Title	Titre politique du entity
+blankInfoSec	
+years	Année de entity
+eventStart	Le premier événement de la entity
+data	Données pour le entity
+series	La série de entity
+commonLanguages	les langages communs de entity
+theme	Thème du entity
+diocese	Diocèse de entity
+tenants	Locataires de entity
+mother	La mère de entity
+president	président de entity
+notableWorks	Les œuvres notables de entity
+seatType	Type politique de entity
+titleLeader	Chef de entity
+workplaces	L’adresse de travail de entity 
+state/province	La province où se trouve la entity 
+beforeElection	Élection de entity
+partof	Une partie de entity
+related	Choses liées aux entity
+capital	Capital de entity
+captain	Capitaine de entity
+founders	Fondateurs de entity
+burialPlace	Enterrement de entity
+establishedTitle	Le nom établi de entity
+blankInfo	
+club	Le club de entity
+e	Club dans lequel entity fait partie
+blank1InfoSec	
+designer	Concepteur de entity
+education	Éducation reçue par entity
+teams	L’équipe de entity
+establishedEvent	Événement de publication de entity
+afterElection	Élection après entity
+division	Division de entity
+nationality	Nationalité de entity
+home	Site de entity
+writer	Rédacteur de entity
+affiliation	Affiliation de entity
+ethnicity	Ethnie de entity
+language	La langue de entity
+namesake	Nom de entity
+seats2Title	Les sièges Titre de entity
+studio	Station de entity
+era	Age de entity
+etymology	Étymologie de entity
+subject	Sujet de entity
+parent	Parent de entity
+department	Département de entity
+sign	Signe de entity
+last	Successeur de entity
+manufacturer	Fabricant de entity
+w	L’ouest de entity
+n	Est de entity
+nominator	Nominateur de entity
+denomination	Dénomination de entity
+position	La position de entity
+incumbent	Les personnes occupées de entity
+stateParty	État de entity
+partsType	Type de pièces de entity
+start	Début de entity
+cctld	
+parents	Les parents de entity
+college	Collège de entity
+leader1Name	Nom du chef de file de entity
+blank1NameSec	
+host	Hôte de entity
+architect	L'architecte de entity
+locale	Localisation de entity
+nw	Nord-ouest de entity
+text	Texte de entity
+precededBy	Le dernier de entity
+round	
+area	Région de entity
+municipality	Municipalité de entity
+dedication	Dédicace de entity
+other	
+regent	Régent de entity
+1namedata	Données de nom de entity
+workInstitutions	Organisation du travail de entity
+developer	Développeur de entity
+chronology	Chronologie des entity
+hqLocationCountry	Localisation du pays de entity
+awardedBy	Le créancier de entity
+inaugural	Discours d’inauguration de entity
+story	L’histoire de entity
+music	La musique de entity
+creator	Créateur de entity
+genre	Genre de entity
+extra	L’addition de entity
+artist	L’artiste de entity
+alongside	À côté de entity
+father	Le père de entity
+basedOn	Base de entity
+controlledby	Maître de entity
+client	Client de entity
+dynasty	Dynastie de entity
+target	Cible de entity
+lyrics	Paroles de entity
+premier	Premier de entity
+publisher	Éditeur de entity
+usedBy	Utilisateur de entity
+workInstitution	Organisation du travail de entity
+deputy	Adjoint de entity
+primaryUser	Utilisateur principal de entity
+as	
+preceded	Prédécesseur de entity
+appointed	Personne nommée par entity
+subdivision	Subdivision de entity
+children	Enfants de entity
+candidate	Candidat de entity
+officiallyOpenedBy	Ouvreur de entity
+countriesAffected	Villes affectées par entity
+body	Corps de entity
+county	Comté de entity
+blank2InfoSec	
+ancestry	Ancêtre de entity

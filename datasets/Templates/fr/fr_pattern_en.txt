@@ -1,0 +1,200 @@
+éditeur	the editor of entity
+auteur	th author of entity
+lieu	the place that entity is located in
+prédécesseur	the predecessor of entity
+subdivision	the subdivision of entity
+siège	the place that entity is located in
+avant	the predecessor of entity
+successeur	the successor of entity
+région	the region that entity belongs to
+type	the type of entity
+nom	the name of the place that entity belongs to
+après	the successor of entity
+ville	the district that entity belongs to
+titre	the title that entity belongs to
+lieuDeNaissance	the birthplace of entity
+liste	the list that entity belongs to
+site	the institution that entity belongs to
+fonction	the function of entity
+président	the president of entity
+propriétaire	the owner of entity
+langue	the language used by entity
+légende	the legend of entity
+lieuDeDécès	the death place of entity
+capitale	the capital of entity
+pays	the country that entity belongs to
+localisation	the place that entity navigates
+précédent	the predecessor of entity
+suivant	the successor of entity
+nomDeDivision	the division name of entity
+périodique	the journal of entity
+commune	the landmark of entity
+division	the division of entity
+origine	the origin of entity
+préface	the preface of entity
+équipementSportif	the home court of entity
+lienSubdivision	the subdivision that is related to entity
+province	the province that entity belongs to
+club	the club that entity belongs to
+chefLieu	the capital of entity
+tenant	the supporter of entity
+premTitulaire	the current president of entity
+gouvernement	the government of entity
+affiliation	the organization that entity is affiliated to
+ouest	the west of entity
+état	the position of entity
+palmarèsNational	the competition that entity won
+stade	the stadium that entity use
+nomCapitale	the capital title of entity
+constructeur	the constructor of entity
+est	the east side of entity
+quartier	the area that entity takes up
+sud	the south side of entity
+fondateur	the founder of entity
+nordEst	the northeast side of entity
+premierMinistre	the premier minister of entity
+nord	the northe side of entity
+embouchureLocalisation	the location of entity
+nordOuest	the northwest side of entity
+championnatActuel	the current winner of entity
+situation	the location of entity
+parti	the party of entity
+lienRégion	the contact region of entity
+sudEst	the southeast side of entity
+précédente	the previous owner of entity
+sudOuest	the southwest side of entity
+équipe	the association that entity belongs to
+monarque	the monarch of entity
+bassinCollecteur	the ocean that entity flows into
+sépulture	the burial of entity 
+plusTitré	
+entraîneur	the coach of entity
+nationalité	the nantionality of entity
+valeur	the value of entity
+langues	the language used by entity
+législature	the legislature  that entity belongs to
+conjoint	
+commandant	the commander of entity
+titulaireActuel	the current emperor of entity
+portD'attache	the port of entity
+comté	the county that entity belongs to
+commanditaire	the mandator of entity
+collection	
+éponyme	the name that is used to name entity
+pointCulminant	the highest point of entity
+régime	the regime of entity
+hiérarchie+_	the hierarchy of entity
+combattants	the combattants of entity
+leadera	the leader of entity
+ligue	the league of entity
+catégorie	the category that entity belongs to
+subdivisionsTerritoriales	the subdivision territory of entity 
+paysDeNaissance	the country that entity is born in
+nomDeCode	the code that entity belongs to
+siège(ville)_	the location of entity
+coalition	the coalition of entity 
+finaliste	the finalist of entity
+district	the district that entity belongs to
+titreLeadera	the leader title of entity
+suivante	the successor of entity
+adresse	the address of entity
+lieuOrigine	the origin of entity
+lieuDeVénération	the  veneration place of entity
+subdivision1Type	the subdivision of entity
+intituléSubdivision	the subdivision name of entity
+chef	the chief of entity
+gouverneur	the governor of entity
+sel	
+auteurs	the author of entity
+autoritéUnitaire	the authority of entity
+palmarèsInternational	the competition that entity won
+exploitant	the developer of entity
+genre	the genre of entity
+statut	the position of entity
+parlement	the parlement of entity
+sexe	the gender of entity
+équipeNfl	the team of entity
+villeDepart	the starting city of entity
+début	the debut of entity
+paysDeDécès	the death place of entity
+villesPrincipales	the major city of entity
+destination	the destination of entity
+coupe	the coupe that entity wins
+clubJunior	the junior club of entity
+lanceur	the advancer of entity
+typeSubdivision	the subdivision of entity
+mandant	the appointer of entity
+famille	the family that entity belongs to
+lieuparutionOrig	the initial place of issue of entity
+champion	the championship of entity
+capitaine	the captain of entity 
+activités	the activity of entity
+groupeParlementaire	the parlement of entity
+hiérarchie	the hierarchy of entity
+créateur	the founder of entity
+porteDrapeau	the flag bearer of entity
+mission	the mission of entity
+partiSuccesseur	the party successor elected by entity
+vainqueur	the winner of entity
+villeArrivee	the arrival city of entity
+villes	the city that entity belongs to
+organisation	the organization of entity
+département	the department that entity belongs to
+franchit	the location of the duty-free store of entity
+père	the father of entity
+dr	the distribution place of entity
+deuxième	the second place of entity
+territoire	the territory that entity belongs to
+chaîne	the channel that entity is on
+modèlePrécédent	the model that is before entity
+usine	the factory of entity
+sociétéSœur	the rival firm of entity
+massif	the massif that entity belong to
+modèleSuivant	the next model of entity
+couleurs	the colour of entity
+cible	the target of entity
+nomSubdivisionMère	the name of the subdivision origin of entity
+découvreur	the finder of entity
+fratrie	the sibling of entity
+marque	the symbol of entity
+voirAussi	something related to tail
+sport	the sport that is invented by entity
+lang	the language used by entity
+allégeance	the allegiance of entity
+chantier	the shipyard that built entity
+série	
+développeur	the developer of entity
+dynastie	the dynasty that entity belongs to
+concepteur	the designer of entity
+saisonPrécédente	the previous series of entity
+œuvre	the work that entity belong to
+saisonSuivante	the next episode of entity
+vicePrésident	the vice president of entity
+franchise	the franchise of entity
+chaine	the channel that entity is on
+origineNom	the original name of entity
+artiste	the artist that created entity
+formation	the formation of entity
+armateur	the owner of entity
+précédéPar	the last version of entity
+présentation	the producer of entity
+fabricant	the producer of entity
+leader	the leader of entity
+partiPrédécesseur	the party predecessor elected by entity
+réalisateur	the director of entity
+titreDeLaSérie	the seires title of entity
+mère	the mother of entity
+plusGrandeVille	the biggest city of entity
+traducteur	the translator of entity
+versionPrécédente	the previous version of entity
+drapeauLien	the flag of entity
+compagnie	the company of entity
+fusionnéDans	the one that entity is emerged into
+suiviPar	the next season of entity
+organisateur	the organization of entity
+résidenceOfficielle	the official residence of entity
+localité	the location of entity
+stationSuivante	the next station of entity
+leaderc	the leader of entity
+héritier	the heir of entity
+featuring	the creator of entity
