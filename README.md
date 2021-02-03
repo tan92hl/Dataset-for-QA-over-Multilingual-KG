@@ -23,7 +23,7 @@
 There are a total of 300K questions in MLPQ, which covers three language pairs (**Chinese/English**, **Chinese/French**, and **English/French**), and requires a **2-hop** or **3-hop** cross-lingual path inference to answer each question.
 
 ### Dataset creation
-We establish MLPQ through a semi-automatic process shown as below:
+We establish MLPQ through a semi-automatic process shown in the following picture:
 ![Dataset Creation](resources/dataset_creation.png)
 
 ### Statistics
