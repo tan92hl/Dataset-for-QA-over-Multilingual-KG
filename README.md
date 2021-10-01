@@ -12,9 +12,11 @@
        4. [Use of the datasets](#use-of-the-datasets)
   2. [Baselines](#baselines)
   3. [Versions and future work](#versions-and-future-work)
-       1. [Version 1.1 update](#version-11-update)
-       2. [Current version](#current-version)
-       3. [Future work](#future-work)
+       1. [Version 1.3 update](#version-13-update)
+       2. [Version 1.2 update](#version-12-update)
+       3. [Version 1.1 update](#version-11-update)
+       4. [Current version](#current-version)
+       5. [Future work](#future-work)
   4. [License](#license)
 
 ## Datasets
