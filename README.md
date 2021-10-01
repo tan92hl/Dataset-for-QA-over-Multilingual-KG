@@ -35,52 +35,52 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">KG pair<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">KG pair<o:p></o:p></span></p>
   </td>
   <td width="74" rowspan="2" style="width:55.25pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Language<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Language<o:p></o:p></span></p>
   </td>
   <td width="69" rowspan="2" style="width:51.5pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2-hop<o:p></o:p></span></p>
   </td>
   <td width="69" rowspan="2" style="width:51.5pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3-hop<o:p></o:p></span></p>
   </td>
   <td width="137" colspan="2" style="width:102.5pt;border:none;border-top:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:14.0pt">Relation pairs<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Relation pairs in questions<o:p></o:p></span></p>
   </td>
   <td width="137" colspan="2" style="width:102.5pt;border:none;border-top:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Average length<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Average length<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:1">
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2-hop<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3-hop<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2-hop<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3-hop<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3-hop<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
@@ -89,43 +89,43 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">en-zh</span></span><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt"><o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">en-zh</span></span><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt"><o:p></o:p></span></p>
   </td>
   <td width="74" style="width:55.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">English<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">English<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">14,656<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">14,656<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">29,815<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">29,815<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,250<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,250<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2,628<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2,628<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">12.4<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">12.4<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15.5<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15.5<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:3">
@@ -133,37 +133,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Chinese<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Chinese<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">14,852<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">14,852<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">29,643<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">29,643<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,251<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,251<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2,637<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2,637<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17.2<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17.2<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">21.7<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">21.7<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:4">
@@ -171,37 +171,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">French<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">French<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15,169<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15,169<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">30,360<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">30,360<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,251<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,251<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">2,626<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">2,626<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">11.3<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">11.3<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">16.1<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">16.1<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:5">
@@ -210,43 +210,43 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">en-fr</span></span><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt"><o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">en-fr</span></span><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt"><o:p></o:p></span></p>
   </td>
   <td width="74" style="width:55.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">English<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">English<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15,289<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15,289<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">18,154<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">18,154<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,138<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,138<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3,575<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3,575<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">12.3<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">12.3<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15.5<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15.5<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:6">
@@ -254,37 +254,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Chinese<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Chinese<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15,831<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15,831<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">18,035<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">18,035<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,141<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,141<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3,578<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3,578<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17.8<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17.8<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">21.8<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">21.8<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:7">
@@ -292,37 +292,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">French<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">French<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15,867<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15,867<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17,993<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17,993<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,144<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,144<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3,580<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3,580<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">11.7<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">11.7<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">14.7<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">14.7<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:8">
@@ -331,43 +331,43 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">zh-fr</span></span><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt"><o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">zh-fr</span></span><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt"><o:p></o:p></span></p>
   </td>
   <td width="74" style="width:55.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">English<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">English<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">8,373<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">8,373<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17,800<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17,800<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">759<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">759<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,674<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,674<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">11.6<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">11.6<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">16.0<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">16.0<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:9">
@@ -375,37 +375,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Chinese<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Chinese<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">8,414<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">8,414<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17,877<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17,877<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">758<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">758<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,677<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,677<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17.5<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17.5<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">21.4<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">21.4<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:10">
@@ -413,37 +413,37 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">French<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">French<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">8,495<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">8,495<o:p></o:p></span></p>
   </td>
   <td width="69" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">17,856<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">17,856<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">758<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">758<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">1,668<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">1,668<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">12.1<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">12.1<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">14.9<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">14.9<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:11">
@@ -452,47 +452,47 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Sum<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">Sum<o:p></o:p></span></p>
   </td>
   <td width="74" rowspan="2" style="width:55.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">-<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">-<o:p></o:p></span></p>
   </td>
   <td width="69" rowspan="2" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">116,946<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">116,946<o:p></o:p></span></p>
   </td>
   <td width="69" rowspan="2" style="width:51.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">197,533<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">197,533<o:p></o:p></span></p>
   </td>
   <td width="68" rowspan="2" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">3,157<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">3,157<o:p></o:p></span></p>
   </td>
   <td width="68" rowspan="2" style="width:51.25pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">9,484<o:p></o:p></span></p>
+  <p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">9,484<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;mso-border-top-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">12.2/17.5/11.6<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">12.2/17.5/11.6<o:p></o:p></span></p>
   </td>
   <td width="68" style="width:51.25pt;border:none;mso-border-top-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">15.6/21.6/15.4<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">15.6/21.6/15.4<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes">
   <td width="137" colspan="2" style="width:102.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">(English/Chinese/French)<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:7.5pt;mso-bidi-font-size:8.0pt">(English/Chinese/French)<o:p></o:p></span></p>
   </td>
  </tr>
 </tbody></table>
