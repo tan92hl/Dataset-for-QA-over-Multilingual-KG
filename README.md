@@ -27,7 +27,7 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
 ![Dataset Creation](resources/dataset_creation.png)
 
 ### Statistics
-
+The statistics of the generated questions, each subset contains English, Chinese, and French versions, with a total scale of 314,479question：
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
@@ -512,13 +512,17 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
 
 ## Versions and future work
 
+### Version 1.3 update
+By using KGT(https://github.com/bisheng/KTG4KBQG) model, we have generated more paraphrases for the questions in MLPQ. We used these paraphrases to randomly replace 50% of the original questions, which further enhanced the diversity of MLPQ.
+
 ### Version 1.2 update
-Recreated the datasets to address the diversity problem and the redundancy problem in the datasets. As a result, we now have fewer questions. Also added a new baseline framework combining NMN and UHop with Bert.
+Recreated the datasets to address the diversity problem and the redundancy problem in the datasets. As a result, we now have fewer questions. Also added a new baseline framework combining NMN and UHop with m-BERT.
+
 ### Version 1.1 update
 In this slightly improved version, we corrected many grammatical errors and added the RDF version of all the datasets.
 
 ### Current version
-- Currently the MLPQ version is `1.2`. We expect to further the work and provide datasets of higher quality and more variety in the future.
+- Currently the MLPQ version is `1.3`. We expect to further the work and provide datasets of higher quality and more variety in the future.
 - Because the generation of MLPQ is semi-automatic and relies on manually crafted templates and machine translation to some degree, there might be some minor problems in the text. We try to improve the quality of MLPQ by post-editing and there should be very few problems now. However, if you find any errors in the dataset, please contact us, thanks.
 
 ### Future work
