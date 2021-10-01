@@ -28,11 +28,15 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
 
 ### Statistics
 
-The number of the selected triple pairs for question generation(2-hop and 3-hop), the number of entities covered in the selected triple pair, and the number of relation pairs covered in the selected triple pair:
+The statistics of the generated questions, each subset contains English, Chinese, and French versions, with a total scale of 314,479
+questions:
 
-| KG | 2-hop | 3-hop | Entity | Rel Pairs |
+| KG pair| Language of question | 2-hop | 3-hop | Average length of question |
 | --- | --- | --- | --- | --- |
+|  | 19k | 45k | 33k | 4.5k |
 | en-zh | 19k | 45k | 33k | 4.5k |
+|  | 19k | 45k | 33k | 4.5k |
+| --- | --- | --- | --- | --- |
 | en-fr | 22k | 68k | 54k | 8.7k |
 | zh-fr | 10k | 35k | 23k | 2.8k |
  
