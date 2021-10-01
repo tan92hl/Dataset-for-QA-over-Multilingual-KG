@@ -58,7 +58,7 @@ We establish MLPQ through a semi-automatic process shown in the following pictur
   </td>
   <td width="137" colspan="2" style="width:102.5pt;border:none;border-top:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:10.0pt">Relation pairs<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;mso-bidi-font-size:14.0pt">Relation pairs<o:p></o:p></span></p>
   </td>
   <td width="137" colspan="2" style="width:102.5pt;border:none;border-top:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
