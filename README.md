@@ -515,7 +515,7 @@ The statistics of the generated questions, each subset contains English, Chinese
 ## Versions and future work
 
 ### Version 1.3 update
-By using KGT(https://github.com/bisheng/KTG4KBQG) model, we have generated more paraphrases for the questions in MLPQ. We used these paraphrases to randomly replace 50% of the original questions, which further enhanced the diversity of MLPQ.
+By using KGT(https://github.com/bisheng/KTG4KBQG) model, we have generated more paraphrases for the questions in MLPQ. We used these paraphrases to randomly replace 50% of the original questions, which further enhanced the diversity of MLPQ. In version 1.3, we provided the divided set of train/dev/test. 
 
 ### Version 1.2 update
 Recreated the datasets to address the diversity problem and the redundancy problem in the datasets. As a result, we now have fewer questions. Also added a new baseline framework combining NMN and UHop with m-BERT.
